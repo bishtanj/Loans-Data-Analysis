@@ -1,0 +1,1001 @@
+loan_id,property_type,country,city,property_value,loan_percent,loan_term,postal_code,joint_loan
+f6d13d77-b063-42d9-8028-70e312ef1502,Condominium,United States,San Francisco,2254108,70,7,94110,No
+a83f6173-ccba-4973-af87-6da83edb962c,Detached,United States,Sparks,2568697,65,9,89436,No
+b825220f-42c9-4f3b-952c-3a8eee122912,Detached,United States,Dallas,678659,80,23,75260,No
+f12ac568-d1fc-468c-8671-13b48a297570,Condominium,United States,Migrate,3458939,90,5,41905,Yes
+5fa22f05-f44b-427b-84bd-bff2c2c91133,Semi-Detached,United States,Waco,2869836,70,7,76711,No
+75ba130a-a631-4a91-b63e-a3f77550e056,Condominium,United States,Pittsburgh,1327482,90,22,15279,No
+282b7802-68bc-4796-bfc2-c921f7e884a7,Detached,United States,Springfield,935479,65,16,65898,No
+cc02a680-d1a7-4b28-8844-cd232fcde381,Townhome,United States,Chesapeake,1859336,85,11,23324,No
+f2eb5392-ed45-42cc-a33c-300625df1b13,Semi-Detached,United States,Wilkes Barre,2171287,65,18,18763,No
+a0301f09-5c66-41ac-8381-939d46489b52,Condominium,United States,Milwaukee,2015044,70,21,53277,Yes
+2b532f5e-b698-4566-991d-2373e0349db5,Semi-Detached,United States,Lynchburg,3183397,75,17,24515,No
+9b5233cc-6ed2-42f0-8600-67287f5ba32a,Semi-Detached,United States,Peoria,883117,85,24,85383,No
+0c9d0a73-42b9-463e-a0fa-796636f4433c,Semi-Detached,United States,Hyattsville,2757923,75,13,20784,No
+028820b5-798c-4741-9e10-5db607aeec3c,Condominium,United States,Columbus,730476,70,25,43231,No
+eaa0ae3d-3537-47a3-b29f-4aad08fbb890,Townhome,United States,Midland,547719,70,20,48670,No
+332b1577-c07e-4034-b48a-762f1ebd0880,Semi-Detached,United States,Des Moines,2899782,85,10,50981,No
+7126d3a1-e231-4ba2-97c9-6c4c94cf8517,Semi-Detached,United States,Fullerton,1569034,80,5,92835,No
+bb7e038f-1fd6-4da5-b1f4-61bde8b00cb3,Townhome,United States,Dallas,1441379,70,22,75287,No
+d5af6ab6-29a6-4fc4-ae57-0c71b3224a81,Condominium,United States,Fort Pierce,1750259,70,10,34981,No
+f1e14f69-9a50-4735-a8e9-3927acd9eea8,Detached,United States,Pensacola,2699171,80,19,32575,No
+de3c711f-1b76-40cd-a3bb-1bd86ceb8ce6,Detached,United States,Atlanta,2976448,90,14,30351,No
+6b4471bb-0a95-448d-b14e-e21e9a47c33f,Townhome,United States,Tulsa,2927590,80,5,74108,No
+c3201ad3-ca8b-4a92-95ad-1def689cb35d,Townhome,United States,Washington,3355135,70,8,20409,No
+e6fbfb79-dd08-4531-9267-216a74483427,Semi-Detached,United States,Newport News,1051731,65,13,23605,No
+353f5832-9ed8-4865-bd50-a0b1825a8c6c,Detached,United States,Dallas,1480113,70,9,75216,No
+68fb3224-22c1-4a7a-b308-f614725e1532,Condominium,United States,Fresno,1472869,85,16,93704,No
+529af3f5-b830-4391-87ca-4dd3118b7143,Semi-Detached,United States,Reno,2116513,75,19,89550,No
+3bbd76ef-63ec-484a-9ea2-9c7310e93f8f,Detached,United States,Jacksonville,635599,80,24,32255,No
+95bde8fb-b634-473c-8e37-0ca49ee8d477,Semi-Detached,United States,Orange,1832053,75,17,92668,No
+b99732b3-d253-454a-85e0-f11ae84337d8,Condominium,United States,Port Washington,2299902,70,16,11054,No
+a4f950f5-87f2-4ecc-a63f-09d67c4a54c4,Townhome,United States,Memphis,1810155,65,16,38168,No
+ee93eea2-f89a-48a9-84e7-3dee7680e073,Townhome,United States,Las Vegas,3031976,75,5,89115,No
+91555011-a91d-48e6-9ef7-4c33f1190820,Detached,United States,Cincinnati,2959916,65,6,45264,No
+1509a9f9-9b01-497b-9d43-8070954c6c66,Detached,United States,Littleton,627266,90,24,80126,No
+4e118d8b-3493-4845-8a19-eb196f06f8c2,Semi-Detached,United States,Charlotte,2759191,90,22,28230,No
+d9854864-b1d8-4851-9560-70bb5f3378b4,Detached,United States,Austin,2656928,85,8,78732,No
+279d529d-df11-4dad-a9fd-f1b86ba7b7da,Condominium,United States,Cincinnati,1926740,70,7,45213,No
+75c55995-5ee8-414a-8c11-a1cc3d764d2a,Semi-Detached,United States,Houston,1753128,90,24,77075,No
+1b680faf-c9bf-4552-8b8f-9324d9b72fe5,Condominium,United States,Port Saint Lucie,500052,70,17,34985,No
+c926df02-b049-4519-868c-a896e79bb5d6,Condominium,United States,Washington,2323921,65,18,20566,Yes
+1768eb62-bfec-4516-8d1b-34976c7ab309,Townhome,United States,Omaha,2454090,70,9,68134,No
+02445705-b55e-4707-9560-5928140cf514,Semi-Detached,United States,Jamaica,2282362,70,18,11470,Yes
+af9a18e7-2b3b-406e-b766-02508f403b85,Townhome,United States,Minneapolis,3278820,80,19,55480,Yes
+b877715d-ab6f-4ff4-9918-c1513ba1eba5,Condominium,United States,Las Vegas,2421752,70,20,89160,No
+d3bb1698-7368-4947-a915-14227d0ab319,Townhome,United States,Oklahoma City,2924075,70,25,73173,No
+48e4da21-326d-4545-8615-c1d342fc267f,Condominium,United States,Sacramento,2721907,70,6,95852,No
+fc39291f-8972-42ad-80cc-37a7b7ee3653,Detached,United States,Mesa,1130513,85,19,85215,No
+da1e5e3e-d4e6-4efb-b1f0-6d24b0e3947d,Semi-Detached,United States,Carson City,1986129,80,11,89706,No
+e5711d77-1912-4d66-8db1-9dcf6315a0a9,Townhome,United States,Houston,2103505,80,9,77045,No
+c3dd6a54-88fa-4de6-99ce-10c927f8f5d4,Townhome,United States,New York City,1416890,80,9,10270,No
+41784c17-be2d-4a20-90c0-81bac40fd819,Semi-Detached,United States,Fullerton,2814297,75,22,92835,No
+9320fe3b-7634-4fef-a39f-17e47fdb7255,Semi-Detached,United States,Miami,2819240,90,6,33175,No
+b6aa7f58-2d97-479f-84ad-67870232db67,Condominium,United States,Richmond,2933144,85,14,23272,Yes
+044dcddf-09aa-4e2d-9f48-01da842d25df,Detached,United States,Arlington,1937567,75,21,76011,No
+a177748a-bbf3-4cd6-bc66-255dab716105,Detached,United States,New York City,704570,75,17,10160,No
+f3f86ef0-e73a-4200-940a-acd8ab19e040,Townhome,United States,Port Washington,2723227,70,15,11054,No
+721f2f16-cd28-4225-92d1-543ae15a4025,Semi-Detached,United States,West Palm Beach,1182533,85,10,33411,No
+1195f696-995f-4ac3-865c-47f4d65c3780,Condominium,United States,Dulles,3262830,90,24,20189,Yes
+7202d0af-58bf-4abc-90ff-a4e3ef1f5abe,Townhome,United States,Elmira,2876573,75,5,14905,No
+953dfd78-2a18-4e22-a102-31dc8e282af4,Semi-Detached,United States,Austin,1195368,65,14,78715,No
+2a697208-cae5-4310-b2f0-c3e417d5d2ef,Townhome,United States,Boston,2060986,75,20,02114,No
+f17d1686-520d-456d-ad47-95eefce79592,Townhome,United States,Philadelphia,2773870,80,16,19141,No
+6964e464-f92f-4816-bed8-75386b8bc0d9,Detached,United States,Torrance,605905,90,12,90505,No
+bcea8d64-f05d-48b1-b9ba-347e795c8b45,Townhome,United States,Toledo,2910119,90,14,43635,No
+8dbf0fb0-c074-4748-95ad-f4b01543b50d,Detached,United States,Charlotte,3202532,80,25,28263,No
+d750a9a1-5f41-449b-ac8a-bcba52f19474,Condominium,United States,Santa Barbara,501132,80,24,93106,No
+21875ea4-8b54-48b5-a980-19f6204f468e,Semi-Detached,United States,Bellevue,559594,85,19,98008,No
+ec9ea685-c228-4900-b726-9eeb9baefebf,Semi-Detached,United States,Anchorage,639670,85,7,99522,No
+9a27c8c5-7bcf-4255-a9f0-36445fe94572,Condominium,United States,Charlotte,1128324,90,18,28210,No
+4a83462c-5fc1-408e-8457-0644f0d99f08,Condominium,United States,Vienna,3337528,85,7,22184,No
+015ed4d3-82f7-4b56-8e2c-549654a7e7c2,Semi-Detached,United States,Champaign,1604487,80,12,61825,No
+3460c79f-3f06-42d6-b81c-bdad2b88c4aa,Semi-Detached,United States,Danbury,1488759,80,25,06816,No
+a4fbf480-0ad0-4202-a7d3-15c887ccbae8,Condominium,United States,Biloxi,2865769,85,18,39534,Yes
+669111e4-df44-4b69-a0dc-760468e1d152,Semi-Detached,United States,El Paso,2936636,85,10,79934,No
+fe5fd471-40e4-4ad9-8146-0cff1fc9f7bc,Detached,United States,Las Vegas,3055556,85,16,89105,No
+1b675afa-911c-4efc-a794-7fa60997caaf,Townhome,United States,Louisville,3094020,65,15,40266,No
+3e55f867-952f-402f-8796-8b73428fd42f,Townhome,United States,Rochester,2085711,70,5,14609,No
+0039697a-64e8-4c30-9918-0ac3510cb615,Semi-Detached,United States,Toledo,1491804,85,8,43605,No
+4b918624-1801-4b3f-8c3c-fe8274a17ef7,Detached,United States,Atlanta,3273158,80,12,30343,No
+cc1bba0d-fc2e-48ff-a147-fd6bddbd240c,Condominium,United States,Wilmington,624045,70,14,19805,No
+10e99e66-cbe2-4953-8cba-8c16b2eef927,Condominium,United States,Baltimore,2959127,65,9,21216,Yes
+dbbb2b03-db19-4168-ab4b-3cce451d894b,Townhome,United States,Carson City,3203346,80,24,89714,No
+1ad8a766-4050-4b1e-ade3-07c680fbb2b9,Townhome,United States,Hyattsville,743652,70,23,20784,No
+bfc77262-4b0f-46a9-9be9-c22b95cd0ea9,Semi-Detached,United States,Great Neck,2603212,85,14,11024,No
+cf8f2013-58dc-4016-b044-4b510886b32e,Semi-Detached,United States,Fort Worth,2198107,65,16,76110,No
+b1ffc637-fdae-46c1-862b-7395baf98728,Detached,United States,Portland,2500238,75,10,97211,No
+8ee3dd95-129e-4c3f-84e5-635e7133f918,Detached,United States,Detroit,1848627,70,12,48258,No
+96d4e796-2cd6-4060-a2da-283c6646d3bd,Condominium,United States,Lincoln,3030983,75,20,68505,Yes
+6ab716ab-d7d5-4e46-b0b5-d2d783827665,Detached,United States,Gainesville,2137432,90,20,32605,No
+4ccd77ff-07d6-40f3-8001-38f0472dfe77,Condominium,United States,Biloxi,3070514,80,24,39534,No
+8e0119e7-3bce-420c-84a2-5b1854ce586c,Townhome,United States,Garden Grove,3054191,75,9,92645,No
+0417babf-84cf-41f1-94cd-b71a1d657235,Detached,United States,Pittsburgh,2591369,65,8,15274,No
+99e7dcb5-755f-4291-90cb-49e868296ef7,Townhome,United States,Pensacola,1864670,65,12,32505,No
+760189b9-0e68-4ced-98be-cc8dde5ce7e5,Detached,United States,Tyler,3222728,90,6,75710,No
+a21877dd-f598-49ad-a39a-1c283891416d,Detached,United States,Ocala,1232358,85,23,34479,No
+da4bafe3-4e63-4b00-b0b9-b231f4c34688,Condominium,United States,Dearborn,2416873,65,17,48126,No
+cf922fa5-9112-4a15-9eb7-6d17b4c8785b,Detached,United States,El Paso,974707,90,8,88553,No
+ef5fe61e-572d-4918-be5c-b9488cfac309,Detached,United States,Colorado Springs,2028295,90,11,80935,No
+37761168-0947-48e0-8c42-e6f00376b6ad,Detached,United States,Knoxville,565267,90,7,37931,No
+fbe2e133-d318-46f0-ad52-004a0eec4d36,Semi-Detached,United States,Birmingham,823500,70,6,35263,No
+e968d2b6-e9fc-4ea3-8990-c2ddb302251d,Detached,United States,Washington,761927,75,23,20430,No
+3f0e7fde-28aa-4504-9a49-50d7d492acb4,Detached,United States,Washington,1864882,90,14,20310,No
+b5d62210-ed2b-4b61-aae8-8db4eaf3bd51,Detached,United States,Oakland,3183590,70,18,94622,No
+7f9dbd20-57a8-46bb-bc2b-28143fcc17f1,Condominium,United States,Toledo,1481177,80,22,43656,No
+fa421bfb-a77a-4693-84ed-160a4cfb4bfa,Condominium,United States,Anaheim,1888013,90,20,92825,No
+f618415e-4808-4f5d-b4e6-10a6bb9778d9,Semi-Detached,United States,Vancouver,3374768,85,7,98664,No
+3f7880c8-2c44-4841-8d79-7be4b8f1c9a6,Semi-Detached,United States,Dallas,1737105,80,14,75287,No
+121ab6ee-287a-4d18-b926-0a7e11504fc4,Semi-Detached,United States,Fort Smith,517818,65,25,72905,No
+8bc69fe6-ecc1-47dc-bc88-0edb5aebc91f,Semi-Detached,United States,Lansing,1086102,70,7,48912,No
+95dc71a4-972e-4bf7-b1db-3e2906b4deeb,Semi-Detached,United States,Des Moines,3456421,65,22,50369,No
+ef9aee64-fa3a-475b-9fb3-4fc83fd5d6ea,Condominium,United States,Shreveport,1764618,75,6,71105,No
+e6fc4f21-9a00-4c1b-ba81-8b7be4e4a3e9,Condominium,United States,Kissimmee,1062687,85,25,34745,No
+423bf1b6-d63d-45d8-b9e1-de389e6e64c7,Semi-Detached,United States,Corona,694143,75,5,92883,No
+cefc99a8-d874-49e4-814d-25fb8dd13967,Condominium,United States,Manassas,2927728,75,6,22111,No
+afc86f11-523a-44af-8780-e3302254dc59,Condominium,United States,Jacksonville,2042734,70,22,32236,No
+6b0cb29c-08ba-48d9-abef-9555ee92daa1,Condominium,United States,Des Moines,2306122,85,18,50393,No
+f66cd9ae-bea2-4e3b-bafd-3d1ab61b417f,Townhome,United States,Philadelphia,1236342,65,9,19151,No
+b7f33dfd-6105-4823-ab3a-755078ed5b15,Condominium,United States,Gainesville,2440283,80,20,32627,Yes
+3b98b7d8-b3f7-4a31-ab46-9f76e38bcdaf,Semi-Detached,United States,Washington,649808,85,6,20016,No
+446fe4b7-46c9-47dd-b657-322c2ec2e67b,Semi-Detached,United States,Louisville,1205247,75,8,40225,No
+1476620e-cab8-4757-ac75-53e5735ed8fe,Detached,United States,North Little Rock,999173,65,24,72118,No
+f73afb1a-926e-4298-b80d-62514f7fd973,Detached,United States,Saginaw,981377,90,20,48604,No
+4f7757ab-99b0-439f-9b23-5be7f2cd409a,Condominium,United States,Springfield,2993020,90,20,22156,No
+2290f704-52a2-48c1-b2fe-53bf785d6ac2,Detached,United States,Fort Worth,1197091,70,9,76198,No
+c913f6e0-c053-463b-8716-965cc418f39c,Townhome,United States,Las Vegas,983011,90,6,89160,No
+d851e4d0-25ee-4216-9c0b-c110d8e6087b,Semi-Detached,United States,Dallas,3360224,85,20,75287,No
+44c53866-10f7-4baa-bec7-e57b02e38487,Detached,United States,Fort Wayne,909764,90,6,46852,No
+43f0a9e3-3939-4544-9dd1-1ae8d958b3f0,Detached,United States,Pinellas Park,1105782,85,19,34665,No
+3703825b-2649-4e2c-bc09-0196f0db66e2,Condominium,United States,Washington,826181,85,15,20088,No
+a1f2866a-ffc2-4570-946b-910789dbc0cb,Detached,United States,Duluth,2696282,80,8,30096,No
+2936f286-698e-417c-8fcf-65751354a0d0,Semi-Detached,United States,Fort Worth,1371269,80,8,76105,No
+1e592585-125c-497f-9024-387389cd4979,Condominium,United States,Sacramento,2871683,85,8,94263,Yes
+3213ede2-c6a3-4ed0-b547-ff06dcb66e2f,Semi-Detached,United States,Dallas,2670882,90,6,75372,No
+dd530691-a18d-40f8-8bb5-a535e3011cfb,Semi-Detached,United States,Racine,3034777,85,18,53405,No
+c4f858b2-f8fb-49f3-a37e-e9898dffccb4,Townhome,United States,El Paso,3361881,70,24,79940,No
+dc1324ac-e536-4212-905a-2b41c27d9df2,Townhome,United States,Houston,3402776,75,8,77288,No
+21da5e4b-9787-41d7-bc6a-a090c44af2fc,Condominium,United States,Jackson,650271,85,5,39216,No
+38937d6f-b048-47fa-b70c-a51215a74b0d,Semi-Detached,United States,Alexandria,1365057,70,14,22313,No
+c1cd6d95-1b1f-40cf-b6e4-c5f59d1a68d8,Townhome,United States,Young America,2772975,70,22,55564,No
+e8471f03-5a44-4345-9bdf-74be4ea33483,Townhome,United States,San Diego,716744,75,5,92132,No
+a420f24b-d951-461c-9425-cf2e8c86d81b,Condominium,United States,Hamilton,3209042,75,10,45020,No
+421ebedc-c54c-4913-b4f9-794b3d0c00c3,Semi-Detached,United States,Richmond,2373070,85,8,23237,Yes
+ab4aec48-bc6e-456b-8e9a-39e0db109397,Condominium,United States,San Jose,812411,70,22,95138,No
+85c0b23e-76b1-47ab-996d-50f35d5cbb89,Semi-Detached,United States,Petaluma,2707544,75,14,94975,No
+3f64ffa4-eacb-4d13-97eb-ca786b41f746,Condominium,United States,Saint Louis,1187085,75,16,63136,No
+33686d8a-9b03-4ff2-a4af-f1a2582ba0ac,Detached,United States,New Haven,3169103,80,20,06520,No
+cd13b602-d453-4f0f-8463-3b87df181bb8,Condominium,United States,Springfield,2207293,70,16,62711,No
+b1a13399-0b4d-4c6c-84a0-9fb956417019,Condominium,United States,Pensacola,2673984,90,15,32505,No
+96646b9f-8a4c-44b6-bb7d-6c0098b84293,Detached,United States,New Haven,3163664,70,10,06510,No
+06864e3b-ec83-4cb6-8541-7cae7b17b09b,Condominium,United States,Whittier,576231,85,10,90610,No
+bfebbe2d-42e1-432b-91cd-c1a114200e25,Townhome,United States,Detroit,3399526,90,14,48232,No
+f6a5eda9-93af-4e71-8158-8c2e11322bcc,Detached,United States,Philadelphia,2822373,75,18,19151,No
+957a0890-7c7c-4c8e-b74e-66a31afcd716,Detached,United States,Erie,2602280,75,23,16534,No
+ad3ff143-97e5-4c30-af3e-f821b7a42adb,Semi-Detached,United States,Largo,2170911,80,11,34643,No
+a6835c02-96c8-4246-b49d-522a53b02869,Semi-Detached,United States,Washington,2123124,85,8,20404,No
+e2d11261-258a-4151-bfc0-e0fe460b957b,Condominium,United States,San Diego,2229168,90,5,92127,Yes
+94347d5a-0261-4709-aeb5-6e861a164dfb,Semi-Detached,United States,Rochester,2807795,65,17,14604,No
+42fb92c7-ce42-4d5e-b78f-46dda44e9071,Semi-Detached,United States,Chicago,1807156,70,15,60686,Yes
+afab6afd-b4d5-43ea-a228-782a88f1e37c,Detached,United States,San Francisco,2643022,80,21,94132,No
+12cd6bb0-98a0-4d58-bf2d-f0ba0eb3a8bd,Semi-Detached,United States,Chesapeake,1674345,75,21,23324,No
+42cfe89d-2752-4b38-a5cc-76cd2d5fcd7a,Detached,United States,Memphis,756097,70,7,38188,No
+174648de-aaf5-4f24-8988-198315e591e0,Condominium,United States,Van Nuys,776360,85,7,91499,No
+e5c3756d-80e6-46eb-9439-20d973a37e3a,Semi-Detached,United States,Vancouver,2906239,90,10,98682,No
+735853b4-7e11-4902-9b11-624277b51dea,Condominium,United States,Gainesville,3316269,90,13,32605,No
+c2fe13b1-9b73-4b7f-9a0e-e5411660403a,Condominium,United States,Ogden,639593,80,17,84409,No
+b2d55a58-287d-4f4a-a0c7-3234f3883536,Detached,United States,Las Vegas,644275,90,9,89115,No
+1baec11b-0dce-4e29-93ee-7cf914408fb3,Semi-Detached,United States,Detroit,1914582,70,22,48206,No
+cb092520-e237-4513-9554-92faa86a998d,Detached,United States,Kansas City,2596631,65,20,64136,No
+11b6633c-c3fa-4a65-a73c-caf74b5d717b,Condominium,United States,Chandler,1104148,75,14,85246,No
+e4d8bc3e-5a90-4b34-b98b-854c3c57381b,Semi-Detached,United States,New Orleans,1370870,85,19,70187,No
+db5f7020-d40b-420d-bed6-d6b8e818ce59,Condominium,United States,Pensacola,740242,75,22,32575,No
+8176d4e3-714d-4fb9-8c20-7a2d67a57f58,Townhome,United States,Los Angeles,3342503,65,7,90030,No
+63da6e26-c1dd-4e7e-8f7b-358c82e857db,Detached,United States,Milwaukee,3231911,80,9,53277,No
+a7cb98dc-dc19-42cc-b3c5-757a05658978,Detached,United States,Richmond,1064234,65,15,23242,No
+7ec9d803-eb50-4206-a9f8-9419b94d2ab0,Condominium,United States,Dallas,1293041,90,9,75260,No
+c35d3e1e-be7f-4fb7-b4ae-d26f508d8e7e,Semi-Detached,United States,Sacramento,3271182,85,19,94263,No
+1963af90-50d5-409b-bd5e-1156487c9e46,Semi-Detached,United States,Clearwater,1894417,75,14,34615,No
+464c90fe-471a-42c5-abd7-e587ef321580,Townhome,United States,Reston,2444851,65,8,22096,No
+80f0d770-8ae9-4d12-9aa3-522850667507,Detached,United States,Jefferson City,3407118,65,13,65105,No
+74ec38e3-2ab0-425f-9a22-abd131441faa,Townhome,United States,Houston,2951808,90,18,77293,No
+9409cc11-1fd4-4fc7-bb26-139c49aae939,Condominium,United States,Anchorage,1831338,65,5,99599,No
+3ed326e4-f01b-41f4-b045-2efa0efe0b04,Semi-Detached,United States,Saint Petersburg,2642577,85,12,33715,No
+8cf746ff-531d-4773-94f0-42ae0b312f64,Townhome,United States,Little Rock,925355,70,15,72209,No
+69cbf3aa-8082-40eb-b801-17c49db52afc,Townhome,United States,Irving,1683647,90,9,75062,No
+e65e60f2-070b-4425-bbd0-c14d30b778a3,Semi-Detached,United States,Minneapolis,1685988,70,5,55458,No
+7d877415-8ecf-4597-9bb5-b0fc7d5cd3d8,Townhome,United States,Baton Rouge,2124485,90,16,70836,No
+88efcc8a-cdf9-404e-a942-f0ece5c9a00a,Townhome,United States,Philadelphia,1755596,85,24,19104,Yes
+8cd45c2d-11e2-43e9-8189-b664b09cacf7,Townhome,United States,New York City,991834,65,25,10155,No
+7ce1f85e-2077-4aff-a803-ae37f26e1f29,Detached,United States,New Orleans,3109560,65,16,70179,No
+c3776636-6c61-482a-947b-75271c925dc8,Townhome,United States,Miami,3208141,65,9,33147,No
+1128a8a9-d5f3-444d-a5e1-ef0ec8afc5b8,Detached,United States,Jeffersonville,816431,75,23,47134,No
+39569c09-bf86-4a6c-8ed1-bc88aa977879,Townhome,United States,Erie,1388584,80,24,16565,No
+8e1d9038-473e-4df1-8b16-df71bc1bb03e,Semi-Detached,United States,Washington,997013,80,23,20409,Yes
+6116d4bf-c9ab-44b1-8042-817192a390e1,Condominium,United States,Corpus Christi,1746473,65,21,78410,No
+f0dac2c6-ce06-41b9-8b06-04b0017e4719,Townhome,United States,Amarillo,3162367,75,18,79105,No
+6480186c-f70f-4dbd-b6a0-b6c7bac12fb5,Semi-Detached,United States,Saint Louis,2024955,65,8,63136,No
+dae66629-020a-4ab3-83c2-f95341b5705d,Detached,United States,Little Rock,2709238,70,7,72215,No
+793cc275-e819-429e-824a-ef7710299f49,Townhome,United States,Saint Petersburg,1880645,80,10,33710,No
+3c0eedae-7d89-4d4b-8687-cf55f2442ab9,Detached,United States,Chattanooga,1932095,70,23,37416,No
+7b6cb6d6-3f3f-441f-96e3-cd9eef4851f1,Detached,United States,Charlotte,770289,75,20,28235,No
+4e78af9d-6ad9-4eff-ac34-c53925214a87,Detached,United States,Irvine,2958172,85,22,92619,No
+ec38c09a-abc4-4eeb-b956-931d43dca6fa,Semi-Detached,United States,Akron,2766379,65,10,44315,No
+e6af94b2-7268-421e-865f-01fa76b27e81,Detached,United States,El Paso,3224776,70,13,88541,No
+05438237-79ab-4c60-99db-5e4e611c3e1b,Semi-Detached,United States,Wilkes Barre,888606,80,21,18706,No
+d27084cd-9f6e-4e45-9f01-f9c0345a1839,Condominium,United States,Winston Salem,2047468,80,23,27150,No
+f2a6540b-0b9d-4df3-8705-4b3c2d78a817,Semi-Detached,United States,Erie,2287702,85,18,16505,No
+6be2b38e-e485-44dd-84fe-c6b8d0d87efc,Condominium,United States,Staten Island,3068993,80,24,10305,No
+3ff658e9-d882-4509-9047-b700298bc1a4,Condominium,United States,Oklahoma City,2310165,65,23,73167,No
+49ebea1a-032e-495a-aed9-72ca9a6db600,Condominium,United States,Billings,1655013,90,18,59112,No
+dd977b9e-9b98-4bc4-83ff-c8048921ddf7,Semi-Detached,United States,Omaha,2226100,65,20,68117,No
+438e2829-e62b-43c2-8462-e3615b78d1d5,Detached,United States,Fullerton,2239350,75,19,92640,No
+55a258b8-5549-4982-9930-045ce1e0993b,Townhome,United States,San Jose,1880555,85,11,95123,No
+f516792a-c81f-40ec-8265-dec00199744f,Townhome,United States,Sioux Falls,2711233,90,18,57105,No
+043a4dab-6654-4a1d-91c4-da622ecef2e8,Semi-Detached,United States,Charleston,1519136,90,20,25331,No
+6c29c124-f421-4189-9aa2-472147563e9d,Detached,United States,New York City,553883,70,18,10004,No
+f3f8f82c-e0e6-4f73-84f5-4fe5bf033e6f,Condominium,United States,Jeffersonville,2158808,85,16,47134,No
+e21166a1-9603-4a91-8351-89ec2f01ad41,Detached,United States,Denton,3194204,90,23,76210,No
+64647b2b-f53d-4583-9e21-e7b2adfeab6e,Semi-Detached,United States,Rochester,1243921,65,25,14652,No
+cd5b3be1-656f-4c8d-8267-0e183624c784,Detached,United States,Portland,947781,70,12,97229,Yes
+f0d6f22a-cbde-480f-b8ad-4a7f38705133,Semi-Detached,United States,Sacramento,1919838,75,25,95818,No
+68554c7d-7bbf-4735-a2ca-ba1b140d01fe,Semi-Detached,United States,Columbia,2570952,70,5,29215,No
+3ef4e3db-a0ec-45e4-95bd-829cdcbd8d45,Townhome,United States,Philadelphia,2615669,70,7,19151,No
+ff669b95-5f35-4323-9074-2a05e19d0e6b,Townhome,United States,Pasadena,2661402,85,9,91186,Yes
+63f5fcf8-f9ea-457e-8e07-6cc273d85953,Townhome,United States,Rochester,3162454,75,8,14652,No
+5b6eedfb-8322-4268-a4ff-2ddfdbeaeaf7,Detached,United States,Shreveport,1016487,70,8,71115,No
+8020cde9-88c3-4ce3-b105-40c068c4fe1c,Townhome,United States,Salt Lake City,2573399,65,19,84125,No
+9e781f1a-2903-4c8a-9330-ff00f223f365,Detached,United States,Inglewood,3382262,75,23,90398,No
+64408b4f-ccaf-4ec4-a61f-8326defefcf0,Townhome,United States,Sioux City,877713,90,8,51105,No
+fc3dff67-52d6-415d-94f7-2c57c526b773,Detached,United States,Conroe,2088400,70,24,77305,No
+a182f80c-4ad0-45f0-83ed-4048b6cbd47d,Townhome,United States,Lawrenceville,2983682,90,14,30045,Yes
+d1ddd418-1bdc-4114-bded-bfa3c326d249,Condominium,United States,Cheyenne,3454481,90,10,82007,No
+5f9fadee-a477-4eaf-8f33-9cb29916eb4c,Condominium,United States,Erie,1595502,70,25,16505,No
+37662763-9c18-466a-a76b-63b7ff5006aa,Townhome,United States,Las Vegas,2404782,70,25,89135,No
+bb9361f0-d86f-4edc-9bf4-ef44f7ac2218,Townhome,United States,Washington,3219124,65,19,20430,No
+2cfd52e0-2bb4-4ea5-be83-b08d306cc4b7,Semi-Detached,United States,Sacramento,3260132,75,21,94263,No
+66189958-2c45-4485-ac72-02e308ec9e0d,Semi-Detached,United States,Los Angeles,2812546,90,7,90055,No
+4b22bbed-96d8-418f-85fc-0d504345d16c,Semi-Detached,United States,Detroit,3244758,75,25,48258,No
+9a352caf-97f2-43dc-9493-c2c8c70b87b1,Condominium,United States,Dallas,3284058,85,20,75236,Yes
+0bb5b80f-b91d-45bd-b0b1-9fe5683633f9,Semi-Detached,United States,Knoxville,2396638,70,15,37914,No
+e8ed4b6b-ea40-41c8-b152-b0bf360beef5,Semi-Detached,United States,Saint Louis,1504129,85,5,63150,No
+29adeea1-77e1-4fe1-a98d-3fc31cdbd1b4,Semi-Detached,United States,Vancouver,1414622,65,22,98664,Yes
+668450ba-47b5-49a1-8333-a2f92392d28d,Semi-Detached,United States,London,587746,75,19,40745,No
+8e84f926-1e6e-4ef4-9521-804fca3f1946,Condominium,United States,Rochester,1177628,80,5,14683,No
+6b17c7d0-d018-4d9a-8330-bb9f58146828,Semi-Detached,United States,Charlotte,2172598,90,22,28230,No
+272ba84b-4e85-4170-9911-b8a510403186,Detached,United States,Shawnee Mission,966637,85,5,66225,No
+d75214f5-ba68-4bf7-b895-ec3268974845,Condominium,United States,Naples,2586793,80,10,34114,No
+256d0673-75d9-4a2e-956d-945928dd16d6,Condominium,United States,Los Angeles,2848056,75,14,90005,No
+cde53c05-43f4-4aaa-9b7c-7a499a94ab39,Townhome,United States,Chicago,1524054,75,25,60609,No
+7e525d34-603a-478e-be4c-6144e7a0f240,Detached,United States,Pasadena,558798,90,20,91131,No
+7c4ecff8-2ef1-42d3-8755-03a3388db8c9,Semi-Detached,United States,Shawnee Mission,2068301,70,5,66205,No
+c3fe0f58-457b-4843-aa23-ee8ae58da594,Condominium,United States,Topeka,1033394,90,5,66622,No
+4765772c-8b74-4c84-bd4a-71290385de01,Condominium,United States,Lexington,1428837,90,9,40510,No
+3066733d-6459-413a-a1da-b3b164b529bd,Semi-Detached,United States,Dearborn,2440853,90,7,48126,No
+744e12b4-6939-45ef-8ca5-612969297c9b,Semi-Detached,United States,Clearwater,1059516,85,13,34620,No
+f3593883-147f-4b2f-9774-885e11f7210f,Condominium,United States,New York City,713657,85,12,10060,No
+b08edf57-6938-40c8-883e-b87e61cf4a79,Townhome,United States,El Paso,698024,65,24,88530,No
+54d0f3d8-fa25-4029-a6d5-7b6326b04af9,Condominium,United States,Delray Beach,3220480,80,16,33448,No
+26e6346b-07e1-4e45-825e-cfd53de53c74,Townhome,United States,Indianapolis,2984156,65,24,46295,No
+61e7b59a-59c4-4cea-87e9-46ef1ca390a4,Condominium,United States,Yonkers,1989060,65,8,10705,No
+bcbde1cb-4057-4f93-b449-f0618a9492fd,Townhome,United States,Houston,2892834,80,24,77299,No
+bcbf85ef-d00d-4379-9231-7ebf6183600e,Detached,United States,Fort Lauderdale,1740912,70,25,33330,No
+1c416149-bd70-46f9-b412-d0e401148bd1,Semi-Detached,United States,Huntsville,3469556,85,15,35805,No
+a6d98d6d-087f-4c37-a449-bc20965734bb,Semi-Detached,United States,Silver Spring,587012,90,22,20910,Yes
+2c86163d-93b2-422d-b40e-a36760207bfe,Townhome,United States,Louisville,1950804,75,21,40280,No
+efa2e756-480f-425b-b02b-171d8e74e488,Townhome,United States,Fort Lauderdale,1026270,85,14,33345,No
+d8539a93-d361-486d-934a-0d1b9a126d67,Townhome,United States,San Francisco,2284067,70,6,94110,No
+9d014f22-9697-4409-b0e9-4cfc8b78bbd6,Townhome,United States,Seattle,1939486,70,15,98158,No
+f4088d6d-f865-4590-bd2a-a0708863eacc,Detached,United States,Sioux Falls,1892007,75,13,57193,No
+f455dd42-373e-4ba3-b249-91be68d30b9b,Townhome,United States,Roanoke,1458027,70,12,24048,No
+70f15d18-5173-4619-bf6a-6d475c9b41ec,Detached,United States,Seattle,927528,85,9,98104,No
+3f2eda0e-4e8f-4c95-9936-ad653fc43e99,Townhome,United States,Tucson,3052372,70,9,85715,No
+3abd5b17-b138-4b87-af86-204a2863f107,Detached,United States,Las Vegas,534221,85,25,89160,No
+a4afa80c-071d-4b10-bc29-4dac4acd9d5f,Detached,United States,Newark,558035,75,24,19725,No
+61dd7362-8da0-47b1-981d-7341ad5c436f,Detached,United States,Corpus Christi,1370519,85,10,78410,No
+02c65c4e-40d6-4572-9aff-9252b94972bb,Condominium,United States,Birmingham,2649300,65,12,35244,No
+9cfa9c6d-e4ce-4d19-b177-4f730a9f2d5e,Detached,United States,Bronx,1351851,80,10,10459,No
+e39377b9-553b-4d31-8772-76da4c1a844f,Condominium,United States,Rockford,2449534,65,24,61110,No
+5abe8cd8-0e3e-478f-9411-e9c9fbf89977,Condominium,United States,Laurel,1561438,70,24,20709,No
+af352fe2-9089-4c0a-ba81-116a5c68fba5,Condominium,United States,Tulsa,513905,75,9,74193,No
+ec59f21d-9bbe-4ac5-88bb-a30cb2da5888,Semi-Detached,United States,Maple Plain,2469192,70,6,55579,No
+70512cac-755a-413a-8af3-f86c2465e2c2,Semi-Detached,United States,Fort Pierce,3235469,75,20,34981,No
+217bff2a-b21b-4dde-970a-37019e30f637,Townhome,United States,Austin,1271367,85,12,78769,No
+c032d229-230c-4385-bac3-57131a5b679b,Semi-Detached,United States,Lakeland,1719994,65,22,33811,No
+50cef55b-f526-4c84-90a8-4f50e6a83a05,Condominium,United States,Louisville,2595789,70,13,40205,No
+a0b50327-f410-4e19-9705-4ad839e4253f,Townhome,United States,Staten Island,1952927,70,11,10305,No
+cc6494be-4d44-4cf4-ac13-b92bf0bc0340,Detached,United States,Springfield,2768801,75,8,62711,Yes
+b6a3ddc9-da44-4bfd-ac9e-230abbe7558b,Semi-Detached,United States,Washington,3310154,65,15,20226,No
+4fc7e78a-da09-48e6-ba08-9aa33ee8b2b9,Detached,United States,Van Nuys,3187419,70,11,91499,No
+ba561131-8a16-429f-872d-bcedd52a4264,Townhome,United States,Indianapolis,645782,65,15,46254,No
+62d22677-bb89-4eae-8b10-dc8985660562,Semi-Detached,United States,Columbus,2037255,80,24,31914,No
+8725daa9-91fe-4882-839c-61039a52f9bd,Townhome,United States,Dallas,3250035,75,20,75387,No
+b44d2206-22c3-4421-9a78-d671dfc09286,Semi-Detached,United States,Grand Rapids,2845470,90,24,49518,Yes
+d6de13b4-473f-43dc-9dd8-a983c4fc3022,Detached,United States,San Bernardino,780155,65,20,92415,No
+6683b456-89d4-46c2-a760-d5a299693496,Detached,United States,San Antonio,2655391,80,11,78265,No
+a09c8fc3-17d2-4f5f-9c82-e6dbb2f71314,Condominium,United States,Boise,2268514,70,22,83732,No
+80000e1a-ba86-4cf7-9f4c-c5aa5cb53065,Condominium,United States,Mesa,1610283,65,6,85215,No
+f10337b4-5d9b-4a9e-b5b0-ae3278722ade,Condominium,United States,Minneapolis,2386483,80,5,55448,No
+b4a29fd0-615b-436f-9d0f-13b3e2ba6996,Detached,United States,Chicago,3284902,85,5,60609,No
+3f6738be-68a4-462c-ac32-5e283d769616,Condominium,United States,Saint Paul,2048395,65,8,55188,No
+3eccbeb8-15f3-4e34-ba39-a1e03fe8420f,Semi-Detached,United States,Garland,1596423,90,25,75044,No
+6be16c3d-68c2-40b8-a61d-332ec922fc7f,Semi-Detached,United States,Springfield,3032457,90,14,62723,No
+8352e853-e4bb-404c-9429-ec80ec606d4b,Semi-Detached,United States,Newark,2950787,70,20,07195,No
+246a92bd-b3dc-4dbb-88a5-ac3ab49ceb40,Townhome,United States,Chicago,1638295,85,21,60614,No
+5103880b-0ec0-44ef-9bc0-58e60aeff783,Semi-Detached,United States,Washington,696712,65,15,20057,No
+4a589597-c85b-4311-a4fb-d07e6a556468,Semi-Detached,United States,Miami,2884725,65,17,33129,No
+5de1c2d6-f55d-4aab-b053-caa5b5a7afcc,Semi-Detached,United States,Reston,795902,90,18,22096,No
+a16ff969-4020-4d06-858b-4a08516fc0ad,Townhome,United States,El Paso,1133325,75,21,88546,No
+afe9b286-7ac3-45a3-be19-cbe70e40fead,Semi-Detached,United States,Akron,1467072,80,16,44315,No
+e8fe9ebd-2f49-49fc-9031-a9d1ef66f6b6,Semi-Detached,United States,Tucson,1485717,80,12,85743,No
+fa5935b2-670f-46be-9eba-539c44c1d2a5,Detached,United States,Toledo,2335645,70,6,43610,No
+7541c557-6661-4f4d-9377-52598b1b0235,Townhome,United States,Garden Grove,993841,80,11,92844,Yes
+d8a83d1c-7cee-4d89-8f67-af384e4b967a,Condominium,United States,Peoria,2240892,80,12,85383,No
+52f4cf33-2149-4b10-8f37-3620a8861723,Condominium,United States,Midland,3171401,65,7,79710,No
+a0ec9724-7b45-4067-bf82-b709d2e9c925,Townhome,United States,Akron,1086986,70,16,44315,No
+b886a38b-0e1f-4482-aff9-8914b232dd5c,Townhome,United States,Rockford,1746267,80,25,61105,No
+5a2e4325-10e0-4872-9024-c0bd9a357411,Townhome,United States,Erie,1255185,90,10,16505,No
+612cc317-4501-4fe5-b74e-d69b0ca41d1d,Detached,United States,Tucson,902201,80,13,85754,No
+bc2acaa2-455e-47db-af61-010a6f9296fc,Condominium,United States,Houston,2302836,80,12,77228,No
+041b2115-347d-49c9-800e-96dc67944c5e,Semi-Detached,United States,El Paso,594784,65,7,79940,No
+4a5ac75a-8663-4731-b5bf-68714a3d16d1,Detached,United States,Oklahoma City,1106153,80,11,73173,No
+d03286af-4db0-4c85-ae8d-e1ae8b463432,Detached,United States,Sacramento,3078225,65,15,95818,No
+fe833797-899d-43d9-9b83-edd4f7f2a1db,Townhome,United States,Canton,2884666,75,22,44710,No
+e3acb79a-0ca7-43dc-ba98-bc24d7bc284d,Semi-Detached,United States,Washington,2614067,90,19,20088,No
+2b897130-8d3a-40e2-a8dd-1762fa82904f,Detached,United States,West Palm Beach,2805814,75,20,33411,No
+2f5401c8-8e4b-4a4e-a356-39450411c19c,Semi-Detached,United States,Shreveport,2588288,90,17,71105,No
+798c0f1f-c32d-4e83-a8a5-87450dc9f228,Townhome,United States,Bryan,2241394,70,5,77806,No
+944b2b33-9728-43f4-98aa-b8c5cfdcc27b,Townhome,United States,Philadelphia,3496747,70,13,19141,No
+49a3033a-b4b1-44b6-b0ea-d0122471f6f5,Detached,United States,Albany,2865050,75,13,12247,No
+2939b6c1-c722-43d6-ba5d-c11405424837,Townhome,United States,Corpus Christi,1725879,85,25,78405,No
+41ac9f20-2a9b-4645-b2a1-b010e8038b24,Townhome,United States,Lafayette,987063,75,20,70505,No
+3155bcb3-02c6-4a64-9145-6ce0eae5b6e4,Semi-Detached,United States,Philadelphia,2399174,85,10,19125,No
+e3a68162-3f0b-489c-9bf4-a950443d1bce,Semi-Detached,United States,Burbank,3144484,70,22,91505,No
+89482d6b-66a9-4c51-afa0-3a332ea7e1b2,Semi-Detached,United States,San Rafael,2139533,65,17,94913,No
+b3e45f77-ddf9-48a6-995a-041d44cf4380,Detached,United States,Beaverton,1376938,65,9,97075,No
+b1eaafa4-9a0c-4d8f-b823-70ed90b201e0,Condominium,United States,Midland,2805304,65,20,79710,No
+3c77c988-5530-4b70-9d8c-9137d1ec0700,Semi-Detached,United States,San Jose,1157253,80,22,95128,No
+4e95fb36-67f1-40ed-a07a-6f2d00080ef9,Townhome,United States,Chattanooga,2748813,65,15,37416,No
+9925b9aa-f0a0-499e-95fa-89aba146f1c1,Townhome,United States,Frankfort,1012402,75,23,40618,No
+f8e4447c-7d10-4896-8c69-0b5f43653c5a,Townhome,United States,Pittsburgh,1324755,85,24,15279,No
+b3a86770-56cf-446a-a456-50dcba1cf5b4,Condominium,United States,Port Washington,1264380,75,8,11054,No
+4dad2645-5c16-4d9c-b829-fb0abd0ed358,Semi-Detached,United States,Chicago,2017071,85,15,60663,No
+7749d3f1-f07a-4e3f-9e7d-37a16f17db71,Detached,United States,Trenton,1239213,75,16,08650,No
+6d08759a-8389-4539-af3a-1262bbd75ca8,Detached,United States,Milwaukee,2830993,70,13,53285,No
+14cc2c8f-00db-4f68-9529-2c128f7cc2c5,Detached,United States,Springfield,2971401,80,6,22156,No
+10419894-4246-4bc4-b90c-a183ba86da1d,Detached,United States,Albuquerque,2734170,65,21,87140,No
+2d4e0c9f-7e88-42da-af39-5f67c6be542a,Townhome,United States,Houston,3036184,80,11,77035,No
+09a3df60-8e0d-4a18-b90e-e5e4e5be7e1a,Townhome,United States,Baltimore,2498306,75,6,21275,No
+bf960b14-9092-4957-94fe-ff031f88e9c1,Semi-Detached,United States,Las Vegas,2995131,75,8,89155,No
+5fba99c5-17f1-4265-8905-496075a01ac2,Townhome,United States,Phoenix,3183831,90,13,85010,No
+ed751049-29e4-4000-90a1-f74f31cdc83d,Condominium,United States,San Diego,2237181,65,19,92165,No
+d41f6af1-a341-405d-9c4d-fed98053da4b,Semi-Detached,United States,Lexington,2873695,90,23,40524,No
+fcf2447c-ab50-4fd4-83fe-4c55fa3a9e4c,Condominium,United States,Wilmington,1078265,85,5,19810,No
+daed5bca-7e68-427f-8924-8f713d166621,Condominium,United States,Indianapolis,3265483,75,15,46295,Yes
+1039ee11-0fbe-4399-bd28-6d76aa02ac79,Detached,United States,Pensacola,2790428,80,16,32505,No
+e94a1608-56fc-4ccc-9ccb-e75ea590bc75,Townhome,United States,Pittsburgh,1234059,75,25,15240,No
+d9676937-db2d-4223-9b59-928dc173f2c2,Condominium,United States,Seattle,1553520,85,13,98115,No
+e9ddf63c-9fe8-466f-9137-c9f03f2fcc94,Condominium,United States,Seattle,1899468,75,14,98148,No
+ae2cb820-f76d-47a0-b778-59dc4e54d766,Townhome,United States,Little Rock,1557829,90,18,72204,No
+eadbc60e-d99c-4cc0-8e7c-9eed032872a4,Condominium,United States,Scottsdale,3477975,85,8,85260,No
+3757c5de-72d7-4b3a-98ff-9befe762c782,Detached,United States,Monroe,2423512,85,12,71213,No
+0e21b95c-4798-4b4a-9c90-b09282b1c476,Townhome,United States,Las Vegas,2667438,90,7,89166,No
+f1139c43-9bfb-4081-b9f8-5660333f1ed7,Townhome,United States,Alexandria,1960415,90,25,22301,No
+99c77c5a-eb23-41a2-b985-d4192f29066c,Detached,United States,Huntsville,2000729,75,18,35805,No
+85fef9bc-49f4-43d0-9bd5-93eeb916d0b2,Condominium,United States,Fort Lauderdale,2166855,65,17,33355,No
+59e97244-39aa-4c6e-b8ae-f870a8b83188,Detached,United States,Salinas,1114279,85,25,93907,Yes
+5540918c-2818-499e-873b-d9b7904d1ba0,Semi-Detached,United States,Richmond,1682812,80,7,23277,No
+9f8f9603-3552-4fd2-bfe2-6f7571d9b722,Semi-Detached,United States,Cincinnati,1708878,85,9,45223,No
+014ff81d-7723-4262-b1a0-d4379c83c062,Detached,United States,Chicago,1435549,65,7,60663,No
+ab6f27df-3850-453b-890d-fef929f0be92,Condominium,United States,Washington,3467434,75,23,20088,No
+89e0e9db-8be8-43b4-bb28-a819272f1ed8,Semi-Detached,United States,Beaumont,741538,65,24,77705,No
+ced06321-07ad-4c56-b798-fd246e7cc857,Townhome,United States,San Francisco,708639,85,13,94159,No
+0c8237c5-e60f-4f02-9d70-912eaabd6c4d,Detached,United States,Portland,2879189,85,9,97296,No
+d15f2353-ec0b-419a-9af5-9d97d67d5c4d,Detached,United States,Waterbury,2824934,90,15,06705,No
+941b540a-5a3b-408a-a7ca-750a357a35dd,Townhome,United States,Houston,1503542,90,11,77095,No
+bb9f0d1b-31eb-4d5a-927f-da32e297b8eb,Condominium,United States,Denver,2141072,65,25,80291,No
+97992439-a666-4913-9e5a-ae8c4562dc1b,Semi-Detached,United States,Miami,1568646,70,25,33175,No
+cde3b12c-d017-466b-8661-5ebf9df0b621,Condominium,United States,Norfolk,572215,70,18,23504,No
+97ee68bc-2170-40f4-88c1-a86174e5d24d,Semi-Detached,United States,Staten Island,801378,85,24,10310,No
+9e9fb839-26dc-4934-b595-a2d967df067c,Detached,United States,Clearwater,2297379,85,9,34629,No
+102298b3-44e9-4a95-b449-72ee281c2b74,Condominium,United States,Indianapolis,1316955,75,23,46202,No
+7cc53bb1-5d6a-4c11-ab73-16f791be99c1,Semi-Detached,United States,Tacoma,2811917,70,12,98442,No
+3f10ec38-2354-4251-a8cb-a9d6f1f88c13,Semi-Detached,United States,Harrisburg,1854184,75,13,17121,No
+476ea9ca-824d-43d4-b137-a796164796d4,Condominium,United States,Cincinnati,617376,80,10,45264,Yes
+b2a6b404-43b3-43bf-950e-99e8451d8f30,Semi-Detached,United States,Arlington,2137772,80,14,22205,No
+a4ac9be4-4b0a-4972-8d73-fe5ad77cd41b,Semi-Detached,United States,Olympia,2074243,65,9,98506,No
+f60b89b7-ca99-4d3c-b3d5-16713e296ee7,Condominium,United States,Fresno,528820,90,16,93715,No
+7b16bc09-aa7c-4246-a645-2aed3ebf8514,Semi-Detached,United States,Oklahoma City,3108850,90,5,73124,No
+e6d5166b-ce8a-48c5-ab80-0c0882d2e4cb,Semi-Detached,United States,Colorado Springs,3324225,90,10,80930,No
+8254f35c-7128-490f-b986-120f1bbeea6d,Semi-Detached,United States,Kingsport,1220393,65,12,37665,No
+aa61b7dc-5908-42ee-ab14-e2816a439195,Semi-Detached,United States,Lynn,2054255,90,19,01905,No
+fc9d0c01-b546-4482-862f-b2477af7e274,Semi-Detached,United States,Lancaster,693180,80,15,17622,No
+ee760f2b-bc91-4d98-896c-3154dbf27f83,Condominium,United States,Wilmington,858303,70,10,19892,No
+d2dd30bf-826b-4b2c-9a07-33c281462e70,Semi-Detached,United States,Carlsbad,3194997,90,19,92013,Yes
+cc47fd59-a08c-4bd4-9490-09f9cb629459,Semi-Detached,United States,Louisville,1578667,65,12,40225,No
+98317f72-0deb-4ffa-b081-9dd1f5cbb4b9,Semi-Detached,United States,Charleston,1834468,85,21,25336,No
+8381b104-c531-400d-9127-634164571f57,Condominium,United States,Chicago,2165121,80,14,60619,No
+d0e43c7c-cd5d-4b3c-a2d3-cf4b767a567d,Semi-Detached,United States,Terre Haute,1013248,65,20,47812,No
+f089a23c-0d2a-42f5-86c9-24469b19623a,Condominium,United States,Tallahassee,1457866,80,7,32314,No
+49b70685-c3d2-47ba-9bea-40eede09c8a4,Townhome,United States,Annapolis,3475598,90,18,21405,Yes
+05cd9243-6e0e-4ab1-af06-4303faa02d8f,Detached,United States,Beaumont,1383266,75,21,77705,No
+77c34c77-b7b8-4b3d-aca9-57e79463f4dc,Detached,United States,Austin,1669945,85,14,78764,No
+ea1b84e4-e80a-4ca5-ad2b-55bcee47388f,Detached,United States,San Diego,587726,90,8,92110,No
+81a3ff3e-0611-4e4d-a8a4-57b02cd372ee,Semi-Detached,United States,Gainesville,2626900,90,18,32605,No
+b6812544-43f8-4c2f-8c28-1fa0b1ad22ae,Condominium,United States,Roanoke,2545281,85,14,24048,No
+b1492f45-7e76-40fe-a678-2d6b6a0bfc99,Detached,United States,Jackson,2728131,65,18,39216,No
+2025ce2e-076d-40cc-bfa3-6bbc810e8d33,Townhome,United States,Los Angeles,3382392,80,11,90071,No
+c77b689a-e19c-410d-8196-268e745bff1c,Condominium,United States,Des Moines,1338171,90,5,50320,No
+38e230e0-9a57-42e8-bdcc-d3e8dc933588,Detached,United States,Lafayette,2331142,70,15,70505,No
+a0e78d27-252e-4726-8371-6e00bc83d570,Condominium,United States,Monticello,2431173,70,23,55590,No
+f07c3f50-d53f-49ca-8275-50aeba025453,Semi-Detached,United States,Sacramento,945695,85,7,94297,No
+2acd4966-54a4-4954-ad11-fd043e7d3f3d,Condominium,United States,Pensacola,3331435,70,23,32590,No
+8939fcdb-f186-465e-b277-8e4b15888d0c,Detached,United States,Salinas,1670800,85,24,93907,No
+80be387a-129e-4f96-b3a1-afb8cacc3f80,Townhome,United States,Chicago,3336835,85,23,60681,No
+59f82a9e-a42c-4080-8c79-7dbd5b02992a,Detached,United States,Oklahoma City,2256115,85,9,73135,No
+66f2871f-933f-4d12-b80d-459ecdaef482,Semi-Detached,United States,Pasadena,2377911,85,23,91117,No
+9873bf40-0690-4239-baf8-1601c67e4ec9,Townhome,United States,Akron,2926631,65,15,44310,No
+f961dcc6-f801-45a3-bbc6-1354a1fe5bdb,Condominium,United States,Oklahoma City,2693093,65,19,73124,No
+9faf2e51-91c9-4384-967e-dc244b5de8be,Detached,United States,Columbia,542351,85,10,29215,No
+63037acb-6d73-4a4e-8ed3-446668684661,Condominium,United States,Sacramento,1045113,80,11,95852,No
+896173d0-c7d8-4e0e-b08e-158f80087155,Semi-Detached,United States,Terre Haute,901735,80,12,47812,No
+81bfe68e-2486-47ee-becd-0b2988be8df9,Townhome,United States,Washington,1088593,90,8,20575,No
+f2779084-edaf-49fb-ba90-3cf7d47bd0e9,Detached,United States,Chicago,2197930,80,19,60681,No
+2fe37df6-6db5-4d88-adf2-e8c33f4ff657,Condominium,United States,Shreveport,2785331,70,13,71161,No
+07744f31-ac9e-4561-baa8-d1f7883248a2,Townhome,United States,Sioux Falls,1641651,90,23,57193,No
+9ccc7fdf-819d-4491-aec4-d52c1ad85584,Detached,United States,San Antonio,2232584,85,12,78215,Yes
+906e77a9-a0a2-46bc-9f47-e98017e478fd,Condominium,United States,Newport News,927998,75,10,23612,Yes
+7f508ae2-bed9-41ea-99ff-23ba651306b1,Townhome,United States,Santa Fe,3003539,65,7,87592,No
+49df55f8-fc58-443e-959a-29629aadf19d,Detached,United States,Portland,2617568,90,11,97211,No
+477c4ae6-f2a6-43fd-b0f7-73f550ba0f9c,Detached,United States,Asheville,1450589,85,17,28805,No
+55691e4e-74f5-4210-8ce9-4c38b552de63,Semi-Detached,United States,Greeley,3073149,75,21,80638,No
+eabf8402-a8cc-4673-8d37-872db8b979f4,Detached,United States,Greensboro,2240211,85,19,27455,Yes
+c5ac54cc-e00e-4d49-be6a-693f31126eaf,Detached,United States,Hartford,2308612,65,7,06105,Yes
+c5b79fb0-ddf4-4777-9913-50b29e1cf934,Detached,United States,Boulder,3249637,65,22,80305,No
+16c7c5b7-c190-42e2-94fe-9b337792cde1,Semi-Detached,United States,El Paso,2986952,90,10,88530,No
+491067bf-70bc-4337-99fe-f5a3ffaa498f,Condominium,United States,Wichita,2182834,90,16,67236,Yes
+94885600-e521-42fa-b75f-818d908717be,Condominium,United States,Lexington,2987763,85,13,40524,No
+8d731885-ef07-4767-9c7a-a887bb59f069,Semi-Detached,United States,Saint Paul,3494766,70,23,55108,No
+79e158d6-db32-4040-81e9-1322ebf30f54,Semi-Detached,United States,Peoria,2192115,70,10,61635,No
+a8090133-53e0-4b14-ada4-c499ab609a74,Condominium,United States,West Palm Beach,2330161,70,10,33416,No
+b19974b2-a79b-4aa9-b91f-b363fd6b71db,Detached,United States,Dallas,3283063,75,6,75323,No
+d63ddfa4-c863-4668-ac32-293a6677ccac,Townhome,United States,Richmond,1053065,65,21,23242,No
+237d3789-a428-412f-9bc6-e06c7232e897,Townhome,United States,Greeley,1110100,85,7,80638,No
+8b298726-d1a1-44fd-ae8e-e3a2b017a63b,Detached,United States,Miami,3014864,75,14,33169,Yes
+784800f3-c289-481f-b433-aee7eef89bb0,Condominium,United States,Corpus Christi,3235503,90,21,78405,No
+46ca49c8-e1ad-45d0-9363-4926a16ca3e4,Detached,United States,Lynn,765768,70,13,01905,No
+36a85796-dc06-4ae5-9c13-ff9164f1e966,Detached,United States,Bellevue,2883352,70,24,98008,No
+b6e7e302-535e-4edb-8c13-435feae1081e,Semi-Detached,United States,Detroit,885075,70,6,48206,No
+c0d7f0d8-6d11-4630-8771-8cb2cbc89da7,Condominium,United States,Roanoke,996764,70,23,24048,No
+f3d4b88b-4781-4161-bb67-b98e1a5f8b09,Condominium,United States,Washington,2039586,75,8,20575,No
+924d4bbd-3f5a-4488-87ff-6c3d8b74a04d,Condominium,United States,Chicago,3348783,80,17,60652,No
+458f7354-d42b-4921-906c-f1bd4eef1f28,Townhome,United States,Jefferson City,1627936,75,22,65105,No
+696c9920-2a55-4866-9335-97e7ebaa5990,Semi-Detached,United States,Dallas,1537069,85,23,75287,No
+4ec5e3b2-0faa-4ec0-a38a-7c9ee86c9424,Condominium,United States,Beaufort,1355961,80,6,29905,No
+d5688509-accd-4bb3-b0a6-6bd0950c0586,Semi-Detached,United States,Washington,2971131,85,7,20067,No
+dd331e41-3f2e-4006-8a8e-64a452f77e91,Detached,United States,Raleigh,1823056,85,13,27635,No
+8c613f79-72a2-4b88-aec1-5fd1f97bed42,Detached,United States,Denver,1994330,80,22,80291,No
+64e3c623-8f88-44c3-9e84-8bcd7a51e719,Detached,United States,Flushing,997695,65,20,11388,No
+09508840-5800-4d74-845d-e38b2766454b,Condominium,United States,Greensboro,925858,85,20,27499,No
+db08ca1a-72df-4c00-9f18-be1f08e5ed32,Detached,United States,Chicago,3082096,85,15,60663,No
+e159c007-dd02-4cc8-976d-a21529c3e6b3,Condominium,United States,Anchorage,2855237,80,23,99507,No
+bf8da1e2-69a4-4448-bca1-135dea9d351e,Semi-Detached,United States,Norwalk,3093290,80,12,06854,No
+8070a32c-f759-40a0-9532-cd266c682d54,Townhome,United States,Fargo,1905783,70,5,58122,Yes
+fba3b90a-c378-4be8-870b-be792abd5e8f,Condominium,United States,Los Angeles,2715868,75,20,90076,No
+aed24e1e-e910-405c-98ea-33993b887094,Detached,United States,El Paso,2077217,90,7,88541,No
+cf9e49dc-5eaf-46c3-b9c0-ece5748ba46e,Condominium,United States,Lees Summit,2948673,70,18,64082,No
+ade93bfa-dab3-44ec-93ca-6d6a1df250d3,Townhome,United States,Cleveland,1300181,70,17,44105,No
+3155d30e-6cc7-4a80-9561-cf6925e6175e,Semi-Detached,United States,Tampa,3317469,80,12,33680,No
+8002d5a3-2259-46ed-b173-4ea5146bf673,Detached,United States,Atlanta,3182970,75,23,30343,Yes
+e0e6aead-c82f-4072-8b1f-f71effd0132b,Detached,United States,Jacksonville,712621,80,17,32244,No
+948fdee3-d797-4bea-bbc3-40dff0bf46fb,Townhome,United States,Pasadena,2286601,90,12,91199,No
+869f4211-c303-4523-97b0-6df529d749ae,Townhome,United States,Saint Louis,3122795,65,16,63104,No
+3ed31159-37bc-419a-80fd-ff7f2c14f704,Townhome,United States,San Jose,2262585,75,19,95108,No
+2344d24f-4641-4a07-acac-499ddb899a5f,Condominium,United States,San Diego,2785440,65,7,92127,No
+317d25f9-b3f2-4d12-acbc-df11312a0cc3,Detached,United States,Mesa,1826352,85,6,85215,No
+5757be3f-ce8c-49c0-84bb-028af888236d,Semi-Detached,United States,New Brunswick,748191,70,18,08922,No
+f6932d71-9002-4334-9cde-4a2aa496295d,Detached,United States,Vienna,3448110,80,25,22184,No
+94ea4d12-e7e0-4427-8269-43ee83400ca9,Townhome,United States,Oceanside,1815873,85,12,92056,No
+d99a0a92-a4e1-4844-9f6e-f05115429608,Semi-Detached,United States,Chicago,3253203,75,18,60657,No
+74af0ae4-dd2b-4d52-a845-3722997eed99,Townhome,United States,Austin,2252220,90,9,78726,Yes
+bfaacd99-5e3f-439b-94f8-7b7dede350bd,Townhome,United States,Rochester,2307871,70,6,14619,No
+bc6c635c-1e11-4f4c-8701-57786a0cc235,Townhome,United States,Charlotte,3362165,90,21,28299,No
+f0a06b91-ae02-4141-b2bd-42f144a4aebf,Detached,United States,Saint Paul,1007896,75,11,55123,No
+7958eefc-7e32-4c0b-b4f9-97d7b3f67081,Condominium,United States,Salt Lake City,2570723,75,17,84125,No
+a535b191-0e2b-4521-b790-3c4783971741,Townhome,United States,Little Rock,3456240,90,19,72209,No
+73d3f3b0-c460-45cf-b070-4f7e21b5a600,Condominium,United States,Fort Smith,596215,90,11,72905,No
+cde2e015-bf97-4d0c-9dd8-e2887f6f6665,Detached,United States,Atlanta,3482869,85,9,30323,No
+1ca4474d-c75d-444d-9cbe-aae7cf644d60,Semi-Detached,United States,San Diego,899919,85,18,92165,No
+4b3a7a80-f097-4692-9ac3-4cbd0e14bae5,Semi-Detached,United States,Phoenix,2485449,80,11,85030,Yes
+2785c8bf-9982-4a93-b50d-f03b26aaad46,Detached,United States,Los Angeles,1728403,90,13,90045,No
+6f2b1364-8a64-4f4d-b5a5-b6f9dc0b8e78,Townhome,United States,Erie,2080271,85,25,16565,No
+090a5e6f-83ae-4907-a3d7-3d06576da98b,Semi-Detached,United States,Naples,782375,70,8,34102,No
+1ed974e0-020d-4b9e-98b8-e7ace9e0c6f8,Detached,United States,Denver,1710696,90,18,80243,No
+7508d6b5-5875-464d-860c-f97310912224,Condominium,United States,Dayton,1047178,85,22,45426,No
+e8c23914-fb36-400c-9175-4a591821a4ab,Detached,United States,Cincinnati,2993944,75,5,45228,No
+b80688d7-9c98-4239-8cec-8d705daba2fc,Semi-Detached,United States,Sacramento,1463868,80,8,95818,No
+e3a7dc64-c668-4dd0-ac96-861fd27e291a,Condominium,United States,Austin,2773238,75,15,78732,No
+2198abab-3a04-413a-9330-6de535ef8b70,Condominium,United States,Toledo,2000733,65,21,43610,No
+defc6bae-ea94-4e3d-a838-60f9472dcb00,Townhome,United States,Cincinnati,3209814,70,17,45218,No
+cdb20f6f-db33-4552-9da6-c00731e90667,Townhome,United States,Milwaukee,2184833,80,11,53263,No
+099f869c-e1d5-4d63-8dbc-8c0730d7e2cc,Townhome,United States,Orlando,1992298,75,18,32868,No
+00563118-0b75-4a54-ba6a-db680ade546d,Townhome,United States,Monroe,3341454,90,9,71213,No
+19979693-39ea-4d95-aa50-b71644b0d648,Condominium,United States,Omaha,2042522,90,19,68144,No
+61408ee3-d6d6-4464-906a-60e07c044c6e,Semi-Detached,United States,Washington,3264821,70,10,20470,No
+4c9ab544-ca43-41d5-b4f6-7f77a348f85b,Townhome,United States,Tallahassee,832167,90,16,32314,Yes
+9ab49a95-bf86-4f6b-b180-f969e0b8ef02,Semi-Detached,United States,Philadelphia,1250403,90,19,19125,No
+16939155-735a-4ee5-802e-dce83db5aa87,Detached,United States,Daytona Beach,786772,85,9,32123,No
+9a923be2-5394-429b-88d4-02c84382e60c,Townhome,United States,Boise,1916997,70,12,83732,No
+56193bb3-a5bc-43bb-adcd-e498191ec094,Townhome,United States,Philadelphia,3394890,70,16,19178,No
+99ebb239-cff0-414a-9aa5-b63d4f7f85ee,Semi-Detached,United States,San Diego,1088086,90,16,92110,No
+0495025d-3709-4d86-bf43-3f46a9433a21,Semi-Detached,United States,Bronx,1576062,80,9,10464,No
+168d8970-87d5-43cc-aca8-bea0cda783ed,Condominium,United States,Bellevue,642926,65,12,98008,No
+a392e2dc-33fc-4782-aa25-06f85d1cf69a,Semi-Detached,United States,Jackson,3355924,65,12,39204,No
+f608acba-eefe-4279-84b8-98249f509130,Detached,United States,Roanoke,1740020,90,18,24040,Yes
+5ba290f6-babb-41be-bf7c-c2f7ab19b9d7,Semi-Detached,United States,Miami,708192,85,15,33169,No
+b36e70ed-4625-418b-8b8c-f12b1610b73b,Condominium,United States,Greensboro,3016234,70,25,27409,No
+89a35891-1539-4f51-a039-10844c87bf34,Condominium,United States,Cincinnati,3224094,90,13,45264,No
+0d023fb9-e116-43f4-9307-6ff5083606dd,Semi-Detached,United States,San Jose,761402,85,5,95108,Yes
+79aad6de-e95e-4ab9-8e96-cbdd21a49b06,Semi-Detached,United States,Los Angeles,1532628,80,15,90189,No
+96bfebfd-828b-43ef-8d2f-413d3ea10840,Semi-Detached,United States,Jacksonville,2374221,70,12,32277,No
+1a2e75ae-8acb-4a7b-8564-ebae3e4c5e44,Condominium,United States,Newark,897516,85,8,19725,No
+5fb33f52-7b84-4b79-a7c5-a73024a63f84,Semi-Detached,United States,Buffalo,2463734,65,6,14225,No
+bcff56d4-a15c-43ed-8423-09b6bdeea850,Condominium,United States,Springfield,1609889,65,17,65898,No
+41741fc9-439d-4266-a3b4-a637645fb199,Detached,United States,Tucson,1692176,80,19,85715,No
+4d659a17-e959-4171-a471-650f0e4ed390,Condominium,United States,Brooklyn,1525927,80,12,11205,No
+80fbc5fa-bd33-42ca-80c5-77c35429cabd,Detached,United States,High Point,1636216,65,7,27264,No
+abed237b-ca3b-4e47-bb86-911f89b9cbde,Semi-Detached,United States,Fort Worth,687514,90,10,76115,No
+fd3d263d-acb3-47af-a3fd-5a4c121d635a,Detached,United States,Buffalo,1844005,65,23,14276,No
+217b3e92-e030-4dd0-b651-6baa3e6d1c57,Townhome,United States,Kansas City,2961263,75,7,64136,No
+3f5151e1-2d09-47a3-8144-861128f2e904,Townhome,United States,Wilkes Barre,581902,65,24,18763,No
+504d6539-0116-441b-8fb8-90c521c55c3c,Detached,United States,Lakeland,1780675,85,13,33811,No
+08b9591f-3d7a-45cb-8e01-4d94a15ab998,Townhome,United States,Rockford,713119,90,10,61105,No
+555d8e5a-df87-4a45-bcbd-e472ffc38abe,Semi-Detached,United States,Erie,1849592,65,16,16522,No
+c287640a-674c-4f64-a03a-3c81f57877ee,Townhome,United States,Charlotte,1672499,70,9,28210,No
+34ceebf5-fbda-4867-88f4-377bf928c24a,Condominium,United States,Huntsville,1628338,80,10,35895,No
+b1e57e69-0a6a-4bf5-a4c0-c549d11732c3,Semi-Detached,United States,Shawnee Mission,1720610,70,25,66225,No
+53e89a1e-1383-4019-941a-391dc6c724ff,Detached,United States,Memphis,615319,65,13,38126,No
+a5377eff-2941-43c4-95f8-5aef013d3320,Semi-Detached,United States,Houston,2187303,85,21,77293,No
+d796d273-bb8c-4e88-ba23-da07497d7ae7,Townhome,United States,Saint Louis,670491,90,5,63150,No
+ae9ed866-7b41-4bd3-8466-0b226c6ab7cc,Semi-Detached,United States,Albuquerque,967892,80,21,87105,No
+d651d41e-4221-4c2b-be68-39858f54b65d,Semi-Detached,United States,Waco,2036431,80,20,76796,No
+fbc21537-bfc6-4bec-ae0d-6bc402d99063,Detached,United States,New York City,1957487,70,19,10009,No
+4a6866b1-c181-4cdd-bed6-42e754b478d2,Semi-Detached,United States,Los Angeles,1136835,75,22,90189,No
+beb0613e-5ca9-4f6b-9b71-6927de46cf2a,Detached,United States,Arlington,2697009,90,25,22205,No
+297301db-27aa-42a7-8128-d08be7d4e28a,Detached,United States,Odessa,1214790,70,5,79764,No
+69c01896-2569-42cf-8e4c-46a781aaf15e,Condominium,United States,Tucson,1388452,70,25,85754,No
+e19544d2-2c47-45c4-8129-baeadf04f389,Detached,United States,Seattle,2952943,75,24,98148,No
+566bceba-f5de-4d57-b4c8-74aa1f8c277e,Semi-Detached,United States,San Diego,1727614,75,10,92127,No
+10247a78-185d-41c4-8c98-47855d5202b0,Townhome,United States,Greensboro,1311505,65,13,27455,No
+2f7bac89-9058-4832-b27e-7e3fa1738870,Semi-Detached,United States,Petaluma,2606638,65,13,94975,No
+df9b090b-768f-499c-91e0-cbf41097efc2,Townhome,United States,Washington,3221462,65,24,20016,No
+54ba29a0-21fd-41e4-a565-98ecc6f6b302,Condominium,United States,Pensacola,617862,85,15,32575,No
+e51fc2ff-b90b-4981-959f-67861a3d65a1,Detached,United States,San Jose,3117850,85,10,95138,No
+91a3de6e-d907-4c35-a7f3-35e562e828ae,Detached,United States,Rochester,712828,85,12,14614,No
+4daac9e5-7ab6-4d1d-a4e0-3c5c4a80cbf8,Detached,United States,Oklahoma City,2167995,70,11,73119,No
+09084558-4911-4809-91c5-735eb23af250,Condominium,United States,Albuquerque,3473744,75,5,87201,No
+791c2532-619b-4c7f-90e4-75d9a23d339b,Townhome,United States,Trenton,2401173,80,15,08695,No
+c389d60d-eeb7-45c2-a995-8f815380b735,Condominium,United States,Lansing,3411214,80,23,48919,No
+3942cbff-745a-44c9-973c-de2b3405b1c5,Detached,United States,Charleston,3170049,70,18,25336,Yes
+7c6bfedc-5b06-4ec8-aaaf-005804b95abd,Townhome,United States,Spartanburg,2789859,85,16,29305,No
+89312ac1-0866-49e2-8dfb-04b7737bc87f,Condominium,United States,Austin,1695393,75,23,78732,No
+e0037728-df21-4570-9ef6-ffe8e9d84e87,Condominium,United States,Omaha,1062744,85,19,68164,No
+b3a6d933-154a-4013-a511-9a5d5e21f4ed,Semi-Detached,United States,Toledo,2495819,70,5,43635,No
+a702a343-619a-4166-b4d5-736dadde78e2,Detached,United States,New York City,3103914,75,18,10131,No
+d12c4f43-be04-41c4-b505-02303c8620eb,Detached,United States,Johnson City,3055813,65,15,37605,No
+5cbba9d5-fd74-4c37-8052-60a96571b349,Condominium,United States,Valdosta,1950923,85,17,31605,No
+7a852d72-caa6-4145-8f22-c7aefdc1e215,Semi-Detached,United States,Boulder,3151120,70,12,80305,No
+233e30a3-edcf-40ac-ab35-e193e1841d98,Townhome,United States,Bloomington,1075318,75,24,47405,No
+50d9d63e-dab8-49e2-89c2-a3ce346ebf74,Condominium,United States,Lubbock,2219614,75,8,79491,Yes
+a8c2e910-0a58-4067-b71b-48dd9880a0fe,Condominium,United States,Daytona Beach,3486827,75,12,32123,No
+0d314aa6-09d0-405a-82f4-19ee1551eaa5,Semi-Detached,United States,Charleston,3288503,90,14,29424,No
+a633d71c-755b-4b79-983f-430d5566ab8c,Townhome,United States,Florence,2967946,90,25,29505,No
+4d7a85ab-9237-4c24-9af8-b0481b332e33,Detached,United States,El Paso,2479498,85,23,79940,No
+1db5ab44-896a-4808-8221-18fd2c29c6ab,Semi-Detached,United States,Topeka,1816648,75,20,66622,No
+7b945e44-4abc-42be-82cd-6dba2d71b9b2,Condominium,United States,Savannah,2535492,70,9,31422,No
+23eb516a-12e2-4021-a8d6-b7c1a06e9d59,Detached,United States,Petaluma,2068910,75,25,94975,No
+b664224b-e9d6-4704-906e-29b628422799,Semi-Detached,United States,Fort Wayne,1661396,70,9,46896,No
+528a2a3d-8a34-447c-b464-505d1a62ff7b,Detached,United States,Lees Summit,2422567,70,5,64082,No
+81b2176b-33dc-4e86-bdfd-a4034747870e,Semi-Detached,United States,Augusta,2936852,70,14,30905,No
+f24e1e43-7c92-4f59-8ab6-8c9ec6f581a7,Semi-Detached,United States,Buffalo,1574175,85,25,14276,No
+24abcfaf-e1d4-417b-8a46-319b4ade1d76,Semi-Detached,United States,Pompano Beach,2050915,70,11,33064,Yes
+ddd3ba2a-350a-41d8-b315-a940bd0cb145,Semi-Detached,United States,Los Angeles,1572493,75,8,90045,No
+acbbf496-f2bf-4a1b-be97-db8bacc444e0,Condominium,United States,Rochester,1115754,85,22,14619,No
+9426cd28-2091-40f6-811b-a0c14055955d,Detached,United States,Columbus,1408180,85,11,43268,No
+4aa8da92-2934-4cbc-99c8-5b450a330e2c,Condominium,United States,Cincinnati,1430033,90,5,45213,No
+3af9e55c-7662-4cff-9738-15a5e9712b38,Condominium,United States,Young America,3061639,65,14,55564,No
+2693ab5d-3e3a-4d18-9905-c893d26905ec,Detached,United States,Indianapolis,2814047,90,14,46278,No
+15b43614-66a0-46e6-9eb8-edfeec9516a7,Semi-Detached,United States,Atlanta,3423882,90,14,30351,No
+33182e37-ae29-4039-b67e-4b52ccbdf201,Condominium,United States,Vancouver,2837541,65,7,98664,No
+c77f3875-4b4d-4575-93d5-606e57573118,Condominium,United States,Columbus,534769,90,9,43231,No
+42b6db42-96a6-4f70-9ba1-0eb3c256caec,Semi-Detached,United States,Alexandria,1712613,80,21,22313,No
+f305b73b-e089-42a5-860f-7325aed1c607,Condominium,United States,New York City,3497900,85,15,10270,No
+87634573-1094-4045-b52e-3e3ba796aa65,Detached,United States,Saint Louis,2041125,65,21,63150,No
+d5c1bea9-24ed-4a29-b41a-97769da56f66,Condominium,United States,Kansas City,1630631,90,10,64125,No
+5d45eda8-809b-4eb9-a863-be59c26b1500,Townhome,United States,San Jose,3074738,65,9,95108,No
+a7ba117c-4801-4485-a2a1-905eb4c61ddc,Condominium,United States,San Francisco,2845319,80,19,94159,No
+537956ec-d4ea-41a5-8dbb-21cb9cc85a4a,Townhome,United States,Paterson,1802678,75,25,07522,No
+aa017109-de38-412a-b4eb-9f8bb2365425,Condominium,United States,Odessa,2264162,75,14,79764,No
+3f9bdf2e-c81f-4511-8751-fe0fe46d7f4f,Townhome,United States,Syracuse,1198243,65,19,13205,No
+52c471c3-2aee-4f5e-a69c-326117d2cec8,Detached,United States,Atlanta,558812,75,23,30323,No
+c2517787-f876-42f5-b151-6d4b7b74c69a,Semi-Detached,United States,New Haven,1682119,80,9,06520,Yes
+9d32c268-3617-42a0-a06d-a73d349b3dc3,Detached,United States,Tacoma,3394916,75,17,98405,No
+99dfcdfa-af76-4279-8d67-057b190a1d54,Detached,United States,Midland,1074475,80,12,48670,No
+6902dee6-1609-474e-af49-1c733c880aff,Townhome,United States,Seattle,3033755,75,15,98185,No
+23c550eb-4b95-438f-961b-b1019cd56dfb,Townhome,United States,Boston,1338376,65,8,02208,Yes
+545ca68e-818a-4da2-8b4a-a5644183a169,Condominium,United States,Nashville,2723297,90,12,37240,No
+19f09f95-93df-4130-91a8-7ef885122618,Townhome,United States,Lawrenceville,1036108,85,5,30045,No
+c00f41b5-c68c-4538-a1da-e3861180cb71,Townhome,United States,Pasadena,2122737,70,22,91117,No
+9c2e32be-3a98-4ded-ab3a-abfa2034633d,Semi-Detached,United States,Pasadena,1489901,80,17,91199,No
+92276250-7668-4b7a-a1b0-b62d61541a3c,Townhome,United States,Cedar Rapids,869472,90,24,52405,Yes
+60a53a62-0872-4bd8-ae4b-e6b666fad5e7,Townhome,United States,Reno,1131685,65,13,89519,Yes
+39d2a351-1bb1-4f65-bdf8-521c246609c2,Townhome,United States,Newark,958323,70,22,19725,Yes
+886bbead-5449-4ebc-9966-d24eece9fdc4,Townhome,United States,Columbus,3117388,75,13,43268,No
+4f0e3140-7f41-4e05-be9f-5f53ae2330c7,Townhome,United States,Atlanta,3448646,90,5,30351,No
+59dfbf58-5fc4-4a99-abe3-595f62f24ea3,Condominium,United States,Shawnee Mission,2405949,70,20,66225,No
+1d372d9a-1b27-4fda-ac35-f86747ede3f4,Condominium,United States,Midland,2130298,90,9,79710,No
+1641c5e8-f9d3-4ec3-987f-de6a7598a50c,Condominium,United States,Denver,2279245,90,5,80249,No
+0aa647c5-d71a-4b73-9f47-d9cf5de3db31,Semi-Detached,United States,Greensboro,2637633,90,16,27455,No
+8dc76490-c1ad-4acb-bfca-cb8d1d3a1bd7,Condominium,United States,Virginia Beach,2234885,70,21,23459,No
+0d4c0a2d-5cb8-446f-b6ef-b81afe6a810a,Detached,United States,Atlanta,1498291,80,15,31136,No
+d3046ad7-5585-4f16-bd26-320c2ef2ddd4,Semi-Detached,United States,Shreveport,2189869,80,25,71137,No
+0211680b-b4ed-42f0-8861-6e0a48f820f5,Condominium,United States,New York City,3321916,90,14,10160,No
+2256b202-0d37-4e95-95db-28fa853696b5,Semi-Detached,United States,New Orleans,510901,65,10,70174,No
+e70435d3-6ac5-4899-a18b-eed00ce7f6e4,Semi-Detached,United States,Fort Worth,3283761,65,16,76178,No
+8e6d3d15-ccc4-4d78-b4a5-1467334cdcb9,Semi-Detached,United States,Oakland,1260948,65,13,94622,No
+2694530c-32d3-485b-a4a0-ed86a1afa788,Semi-Detached,United States,Denver,2768319,90,11,80279,No
+275013ed-95b3-408a-9a71-5de8fcfc0e0d,Detached,United States,Colorado Springs,2280729,80,8,80915,No
+4e708e3a-257b-49a6-9f45-c3dc9a162075,Detached,United States,Colorado Springs,2142578,70,20,80920,No
+1aa0a0b5-bb9b-401b-b834-7d4b7e7575b0,Semi-Detached,United States,Monroe,2108299,65,8,71213,No
+f4d3ccfd-f50b-4f6e-89b1-2c3c5fd560e6,Condominium,United States,San Diego,2871680,80,13,92105,No
+017dbff0-bc2f-4dda-b07c-733937b9e7b8,Detached,United States,Birmingham,888411,85,11,35205,No
+e048f7d5-2ea3-47de-9b07-d463e216772d,Townhome,United States,Newark,2703129,90,8,19714,Yes
+4b3fe37a-6c7c-4313-b4ea-50ee7fdf9d18,Townhome,United States,Champaign,1541063,85,17,61825,No
+550ef772-ddf1-49f3-bff3-a6c579fa539a,Semi-Detached,United States,Chandler,2733421,90,11,85246,No
+f4df60c7-a9d0-4ee6-bc30-0e84bfacd327,Townhome,United States,Sacramento,2049335,65,15,95852,No
+47094533-ff66-49eb-b6fd-e4e180d6236a,Detached,United States,Norfolk,2693600,85,13,23509,No
+8057408f-a4a2-42ff-a780-2109cb933feb,Townhome,United States,Houston,1678711,85,15,77095,No
+a7395593-3943-4011-9abc-7832b60e5145,Detached,United States,San Francisco,754784,80,15,94132,No
+5cb690aa-0b8c-4bb9-87f5-2f6928479c6e,Townhome,United States,Dallas,3065067,70,20,75260,No
+5fc026bb-efd0-4949-8c32-1ff06ed4ab8e,Semi-Detached,United States,Newark,2989235,75,24,07104,No
+c0b1a012-b9c5-40dc-8d4d-b3737b1c563e,Semi-Detached,United States,Springfield,3287166,90,6,62756,No
+0123d05b-81d5-4e08-b28f-2c5705e6752c,Townhome,United States,Toledo,2076673,70,9,43610,No
+45d55adb-5178-415c-a26a-b7a89a6e7763,Condominium,United States,Roanoke,1882827,70,17,24048,No
+e474a7eb-7d89-48fd-9286-0515980a6017,Townhome,United States,Houston,1638658,70,21,77240,Yes
+67240b55-c5f5-4e70-8890-d51c4726d078,Condominium,United States,Tulsa,1761541,85,18,74184,No
+34bad05f-63a9-418a-96bd-4b6db2d84b4e,Condominium,United States,Topeka,1148230,85,10,66617,No
+f27a691b-6602-4831-a33a-656f809c1604,Condominium,United States,New York City,575067,85,10,10150,Yes
+bd14871a-1344-4ada-8113-57bbb363d484,Semi-Detached,United States,Houston,655225,90,7,77234,No
+cdeb16c0-6cf0-4991-b56f-55ecc6ef1cf5,Semi-Detached,United States,Phoenix,2039373,85,18,85062,No
+50c836d8-3c20-4f79-90a7-844d0dafa1b0,Condominium,United States,Pompano Beach,1846812,90,18,33064,No
+e2746f96-7b41-4140-a8d8-d85658564d56,Condominium,United States,Dallas,3155942,65,24,75379,No
+400dd0a7-d69d-4ac8-9c73-b1fc3b4731e5,Townhome,United States,Huntington Beach,2801800,80,10,92648,No
+b3f67496-e7ce-4af0-9895-cbd18c9f4a1d,Townhome,United States,Phoenix,1576981,65,11,85067,No
+28b0f272-52d0-4c9b-bbae-e922dad5bfaa,Condominium,United States,Buffalo,2552018,80,5,14225,Yes
+4e58396e-a543-42a9-82da-738b6765e234,Townhome,United States,Shreveport,1427378,85,5,71137,No
+e2c41528-6314-49ed-9ce5-ed449be497d2,Detached,United States,Evansville,1941615,70,23,47747,No
+c05b7c15-d914-41b8-9702-b5eb5a0cfd37,Townhome,United States,Richmond,2294533,65,9,23272,No
+ce24bbd4-3b0f-4137-8316-0c7c01bc0e4f,Semi-Detached,United States,Clearwater,3434383,85,16,34620,No
+7006d057-0c04-4f96-970c-251f5b171ea1,Townhome,United States,New York City,1715066,85,16,10060,No
+afba8a9a-9938-404f-b45f-2292b1797332,Semi-Detached,United States,Saginaw,3012609,85,5,48604,No
+4bbaeb70-e0b3-4b86-820e-c53c9d98627d,Detached,United States,Cleveland,2740870,80,23,44185,No
+4a1f83cd-b931-4c73-b2ec-e9808e2ade23,Townhome,United States,Pasadena,2452184,80,17,91103,No
+25ce6cce-aafc-458f-888d-d45e5581483c,Townhome,United States,Boise,1721138,85,7,83732,No
+8f064c8a-31b6-4757-aaa5-0a6353ab43ba,Townhome,United States,Saint Augustine,1388180,65,13,32092,No
+82a1b002-78db-4a36-a1b6-ce281cf67eeb,Detached,United States,Dallas,2086888,65,17,75210,No
+c9e432f0-04dd-48e5-abca-1d7bc958b499,Semi-Detached,United States,Austin,2300439,80,10,78769,No
+9590f0af-869d-465d-a60a-f5d6637f743a,Detached,United States,Omaha,2208957,90,17,68117,No
+5b75d15c-15dd-4838-987e-67ac6442f150,Detached,United States,Midland,1642747,90,20,79710,No
+bc1bd7c5-d3b5-4779-bb0e-2485cfcf205e,Townhome,United States,Chandler,3094793,70,13,85246,No
+5d43e0be-92e3-42da-b59a-5ae4b2829e5c,Detached,United States,Washington,3115402,90,11,20310,No
+9a313ef9-c4f2-44d3-947f-40cec3626a2a,Townhome,United States,Allentown,3012081,90,5,18105,Yes
+fac1517a-ddf1-4388-a9fb-a7c876b1acb3,Semi-Detached,United States,Dallas,1225880,85,9,75379,No
+0378a6d3-cd2b-4958-9912-279cf635d046,Townhome,United States,Detroit,1142365,65,25,48206,Yes
+d9071c3d-3618-46b9-b906-66f68c7f4615,Condominium,United States,Warren,3178200,80,11,44485,No
+3bec9f4e-9e71-4452-bf98-f0ea6312b1a6,Condominium,United States,New York City,984552,80,17,10270,No
+a8b7f8f1-7c04-4502-852b-68cd0302b20d,Semi-Detached,United States,Kissimmee,2574477,70,23,34745,No
+aceed6cd-c88f-4460-bbbf-b4ddf692328c,Detached,United States,Toledo,1534697,70,8,43666,No
+e13219a2-2f4a-4653-9fde-49a91857bc76,Condominium,United States,Houston,1315088,80,14,77085,No
+0cc5f254-6642-4ead-8aaa-3ee287f52b1b,Semi-Detached,United States,Oklahoma City,2691555,80,5,73129,Yes
+0a3ec20d-f0df-48e9-b72d-1f27668c70a5,Semi-Detached,United States,Pittsburgh,2363364,65,12,15266,No
+0e11a9c1-bd6c-46ee-86ff-d4bece6e0221,Semi-Detached,United States,Irving,2405978,75,24,75037,No
+2ea6d148-6fdb-4698-84dc-c0a688b17b5c,Detached,United States,Fullerton,2645221,65,17,92640,No
+71a3f872-db48-482a-99f2-bd26ecb22a6b,Semi-Detached,United States,Seminole,2404011,75,24,34642,No
+c0620f74-1176-428c-b6c3-0c749e868242,Townhome,United States,Colorado Springs,2248065,65,11,80935,No
+53ebcc6e-151b-4cbe-921e-01aee5b295d1,Townhome,United States,San Antonio,3331121,75,21,78265,No
+7913a23e-1119-4394-aacc-ff3dba864b68,Townhome,United States,Whittier,1770367,65,9,90610,No
+52ba8f48-c966-45c0-9124-818041897fae,Detached,United States,Great Neck,814979,90,5,11024,No
+d99090a1-2ce8-44a6-8b6c-94f00646f9de,Townhome,United States,Johnson City,1363723,70,15,37605,Yes
+a8037ef5-a31c-402a-9c9e-2d89ad384397,Condominium,United States,Akron,1229467,65,6,44310,No
+672dbc42-3cda-49ee-a21b-9622759ef318,Semi-Detached,United States,Rochester,3263509,65,18,14683,No
+7f0b156b-d1c0-4773-b0e4-6e9377a1eec4,Townhome,United States,Colorado Springs,1414611,65,18,80920,No
+72afc30d-256e-4146-ad81-0c372235cd62,Semi-Detached,United States,New York City,3466332,90,16,10039,No
+e264aa2d-360c-4fc3-a6ed-cb16e4540b9b,Semi-Detached,United States,Austin,3112497,65,9,78715,No
+14f74375-149a-4ec9-ab50-91fa174163b4,Detached,United States,Greensboro,2847813,90,20,27404,No
+b766c480-53f4-445c-a221-b4ef69711de5,Semi-Detached,United States,Torrance,2895163,70,16,90505,No
+ab857716-6a7c-4e48-93ae-26309eb95699,Condominium,United States,Oklahoma City,2378713,75,9,73142,No
+19952b42-d500-421c-a457-344e63f78ca0,Semi-Detached,United States,Oklahoma City,1300318,80,10,73167,No
+6af31d9a-e554-4a06-acc8-19515a89173d,Townhome,United States,Colorado Springs,1235347,80,23,80920,No
+28e058ee-0105-4817-b819-5c0c09a6bbb3,Semi-Detached,United States,San Francisco,784996,90,25,94110,No
+2e46e855-b79c-4223-bf80-91d8bc889c95,Detached,United States,Honolulu,3198738,90,12,96850,No
+3042ffa1-b46a-4fed-b356-c1c9e25ad2ac,Detached,United States,Springfield,3146922,70,18,01114,No
+222b4555-87d3-4f24-9d9c-e88a0b0f1500,Detached,United States,Toledo,1012912,80,21,43605,No
+0fd3bf0f-f214-411f-9c3b-7416475d9009,Townhome,United States,Tulsa,1144557,75,15,74108,No
+18821570-ee00-41fa-ab00-25988991de36,Detached,United States,Pensacola,1461706,75,11,32595,No
+82b3dc4b-26ad-472d-9b81-7666a0535d92,Semi-Detached,United States,Boise,634611,90,16,83722,Yes
+5da91494-6441-4055-9b9c-6d5923b51621,Condominium,United States,Stockton,715676,90,17,95210,No
+95f6970c-1f8b-479c-ac63-84502438e809,Condominium,United States,Fort Wayne,1824507,65,20,46862,No
+bab3edb4-f850-475c-b415-e816eaae2c01,Semi-Detached,United States,Vancouver,2262786,80,20,98687,No
+f5b65729-1469-4e3e-951a-ce64a9be9c65,Semi-Detached,United States,Cincinnati,1904560,80,9,45249,No
+c15538ae-d229-4998-b6d8-bdf0f011a048,Semi-Detached,United States,Atlanta,1555821,65,19,31106,No
+f13bb64b-39b2-4cd7-beb7-0ade8c2846a8,Townhome,United States,Virginia Beach,1861166,65,6,23454,No
+511faf2f-43cd-4f45-ae7e-9d1c826d4142,Semi-Detached,United States,Midland,1767762,90,18,79705,Yes
+77411172-249b-4436-8a4f-f8c9768da992,Semi-Detached,United States,Asheville,1087160,75,7,28805,No
+3240fbff-a91e-4c61-83e3-da1574478378,Condominium,United States,Saint Louis,1375830,80,15,63121,No
+8e2b3364-0b34-4fb1-ba82-3d82211f865c,Condominium,United States,Shawnee Mission,2728022,65,21,66225,No
+904dc86c-ee8a-43c3-abf7-a724a4d1c334,Semi-Detached,United States,Silver Spring,573798,85,18,20910,No
+a277c9a7-b7df-422b-a68b-326a1de41dd4,Semi-Detached,United States,Jeffersonville,1962013,65,11,47134,Yes
+b34cc7db-20f0-45d2-8150-41454676e651,Semi-Detached,United States,Tampa,638966,80,25,33647,No
+53dfab1a-ea0e-449b-bed6-ec9dfddcc80b,Semi-Detached,United States,Houston,1895890,65,9,77228,No
+5e2d93ec-f137-446e-91d1-a862c9d5fe0b,Condominium,United States,Humble,2370202,85,16,77346,No
+b5bce6a2-40d2-40a9-8c9c-16f5c4a14b05,Condominium,United States,Stockton,2582924,70,6,95210,No
+ce6ccd12-21ed-4aef-8cc9-d9e25b1d8e38,Semi-Detached,United States,Austin,2994383,65,18,78769,No
+fed76c41-fec3-4215-b441-8a6693b5270f,Detached,United States,San Francisco,1160567,75,10,94110,No
+4994b472-4b80-4d7e-b6f4-e7681aba7950,Townhome,United States,Philadelphia,1848894,75,12,19104,No
+e1f084f5-29bc-434c-b6de-1a56d493a0b4,Semi-Detached,United States,Columbus,2539420,70,24,43220,No
+cb32a40a-3560-4e2e-9745-dd5536c2f4ed,Townhome,United States,Baton Rouge,1623561,70,6,70836,No
+e5d698f6-979f-4c6f-bc7d-4837b690c776,Condominium,United States,Norwalk,2392012,90,13,06854,No
+bf846908-cfef-4a1c-92d6-a05cf977ba90,Condominium,United States,Buffalo,502730,80,24,14205,No
+19150e30-2966-4556-b270-b9c54b6559b0,Semi-Detached,United States,Indianapolis,2610841,65,17,46202,No
+3a84af92-35f3-4f44-b64c-0b385d277ba9,Condominium,United States,Greeley,1838268,75,13,80638,Yes
+bf3649e7-dce6-46ae-963c-4de21f63b287,Detached,United States,New Orleans,2314725,70,16,70179,No
+b12d964d-e29c-42e4-8507-2609bd310003,Detached,United States,Lafayette,3335323,80,24,70505,Yes
+dc6e59bf-2155-4a2e-9c96-2ca4dc9e91b0,Detached,United States,Stamford,3486612,70,10,06912,No
+15e626c4-3ab2-423f-849f-e5482eaa1b37,Detached,United States,New York City,1221680,70,21,10270,No
+03735538-c29b-4b5b-829b-e4f285bd1d42,Semi-Detached,United States,Albuquerque,1499440,90,15,87140,No
+5b6e7c7a-ae3b-4209-9a47-697a2fda68a7,Condominium,United States,Washington,3461199,75,11,20220,No
+0baeaf69-c4c6-434a-b759-decdb8b88090,Detached,United States,El Paso,2643332,80,6,88553,No
+3d89d771-d1e2-47f9-a1c6-d1a213b94b7d,Condominium,United States,Van Nuys,1590587,65,15,91406,No
+62d50141-26aa-4df1-ac65-ce4ecfcdb97c,Semi-Detached,United States,Anchorage,1324405,75,20,99522,No
+82f74dcd-7b75-49f5-9b6f-15d38d0069ed,Semi-Detached,United States,Grand Junction,651346,75,9,81505,Yes
+2a505831-fe8f-4b07-829f-f90c7dbba224,Townhome,United States,Hollywood,1100417,70,14,33023,No
+de729e94-fcd4-41a8-b23d-83a195f4eb90,Detached,United States,Greensboro,2827191,85,6,27404,No
+cb0a1fca-94af-491f-b103-d8429a756dbe,Detached,United States,Aurora,1850164,90,20,80044,No
+5c41ef4e-d410-4bc4-8f9c-ca94f1e2618f,Condominium,United States,Waterbury,1490008,85,14,06721,Yes
+e5827fae-bf59-42c2-9b64-19defa3c4b40,Detached,United States,Richmond,2081991,65,9,23237,Yes
+59ac6732-6469-429f-b0c5-c2853be368e9,Condominium,United States,San Diego,1304697,85,5,92191,No
+deb9f406-e3c2-4db9-9bcb-6a9297216729,Townhome,United States,Rochester,730920,75,11,14604,No
+d7e351a5-0e44-4a21-acd3-4581526bdfc7,Condominium,United States,Hartford,2791914,90,25,06183,No
+24426079-0956-416b-b0e8-52cdaadec8a6,Townhome,United States,Yonkers,537372,65,10,10705,No
+bc1d381e-c596-4117-b86b-bf9651c95b26,Semi-Detached,United States,Boise,2874402,85,16,83722,No
+9f29d6b2-7b67-435b-a27c-29a40224ccd5,Semi-Detached,United States,Decatur,3472464,75,7,30089,No
+2d0a0b16-ce1e-4674-9799-de0c6bb65b59,Detached,United States,Los Angeles,2009161,70,18,90010,No
+5d37fe40-d7dc-4ec8-ac67-14e2ab542364,Townhome,United States,Houston,2651937,65,11,77234,No
+282e4c67-ccab-4e67-bea7-cbbb42d2d6b2,Townhome,United States,Shreveport,1000841,70,13,71151,No
+517a23d9-40ab-46c8-b1a0-d604bc0bb7f2,Detached,United States,Peoria,2138676,85,12,85383,No
+8f179bea-0764-48a1-b6ac-53956a66b43d,Townhome,United States,Bryan,1471343,75,10,77806,No
+271b2339-d521-4143-a169-37a65c66a1b6,Semi-Detached,United States,Phoenix,2753546,90,10,85099,No
+f8fa9bab-2c6f-41cc-825c-9db09d63a417,Detached,United States,Oklahoma City,1052312,70,12,73135,No
+a6944cac-90fc-43ac-a190-a30074a22c6b,Townhome,United States,San Antonio,3081444,90,12,78278,No
+9814a633-856c-4ee0-9398-1725e5c5b2dd,Townhome,United States,Las Vegas,2540463,75,15,89160,No
+4c07a3ef-9872-4c69-a2e2-0553609edd9e,Semi-Detached,United States,Independence,2827396,65,25,64054,No
+2596d354-7b84-414f-b6c7-2bb7f2278bc6,Condominium,United States,New York City,1428270,80,16,10039,No
+d2fed4e9-54c9-474a-8aac-ad63197eeacf,Semi-Detached,United States,San Diego,673306,70,13,92191,No
+1d905175-536b-420a-a4c2-c9c797a19e33,Detached,United States,New Orleans,1072822,85,10,70116,Yes
+20a05edc-6cb7-4d05-bf50-1bf25ab6bc6e,Semi-Detached,United States,Biloxi,2286714,90,19,39534,Yes
+41e37782-7ee8-49ac-98d2-0383eb178be1,Semi-Detached,United States,New Orleans,1924973,85,6,70183,No
+2bb3132c-95a3-4ed7-a4b9-c952d7adfe8f,Condominium,United States,Harrisburg,2197159,75,13,17121,No
+33eeeb59-a455-4eb4-a426-a52b65cd3ef9,Townhome,United States,Seattle,1075315,85,12,98109,No
+8d12abe0-6554-4f1c-be1f-567cdd9fcb53,Detached,United States,Huntington Beach,1550448,70,8,92648,No
+6e7e2aab-c6e5-42a0-b9c4-0b74af698f0a,Semi-Detached,United States,Tucson,2608400,85,21,85743,No
+7c4dc730-ef0e-4033-9d92-dc8fe0219326,Condominium,United States,Paterson,3351816,90,14,07505,No
+d1c79fb7-d551-4645-8b27-23191b61ec4f,Townhome,United States,Columbia,874058,85,25,29215,No
+2579aaee-7d0a-4137-97eb-962b1260ef4b,Semi-Detached,United States,Greensboro,1892295,65,22,27404,No
+9d4fb1b6-7751-4312-aa47-aef93f0349a3,Townhome,United States,Montgomery,2219172,75,11,36177,No
+7e5731bb-b851-4470-8bca-d641d19d22c3,Condominium,United States,Chicago,2636373,75,21,60630,No
+cff4f845-c03f-4483-a69b-5e4769c8dfe3,Detached,United States,Saint Petersburg,1465122,75,10,33710,No
+c1329f25-691f-4f34-9489-0437e58c476f,Townhome,United States,Johnson City,1084722,85,14,37605,No
+c3785ae4-abc5-4ea4-a379-18313d6b30fe,Detached,United States,Boston,3211264,70,19,02216,No
+3e3be144-98c2-4fae-abc9-61208c42dcb5,Semi-Detached,United States,Fort Worth,2533017,70,6,76178,No
+1cdc4e8a-bf89-4a37-ae5a-3e3f9f6f9798,Condominium,United States,Harrisburg,3457330,70,15,17121,No
+a14dd267-6c89-40b8-b844-b635102db13f,Townhome,United States,Wilkes Barre,1713927,85,23,18706,No
+5520a337-ed74-4726-b9ed-be00b9a94e32,Townhome,United States,Young America,820353,80,9,55564,No
+1a62c880-9dd3-454e-bbd9-25e620d6446e,Semi-Detached,United States,Tacoma,2874382,70,21,98447,No
+1abe370b-350f-460a-a485-d13b1e7282a8,Detached,United States,Aurora,2497886,65,19,60505,No
+df66633d-875f-490b-9e77-b6adc09d4aa3,Detached,United States,Whittier,2588552,70,13,90605,No
+eef1fd22-9692-469f-81e2-e66b85aeaede,Detached,United States,Arlington,2668168,85,10,22212,No
+c9de91b3-b359-4a32-b346-714a0a206f7c,Detached,United States,Charlotte,3235128,65,10,28225,Yes
+edb67025-cd93-48ed-9070-fa2f2bb2ede3,Condominium,United States,Columbia,2600436,85,5,29220,No
+fa7fbc46-02ca-4e90-bef7-1c2c3718fb8f,Semi-Detached,United States,Whittier,2819410,85,18,90610,No
+fb7d33a9-07f8-4e7e-9ac3-701d16725987,Condominium,United States,Rochester,2862997,65,10,14604,No
+746b6a87-4118-475c-9945-92f9883d6d7f,Detached,United States,Knoxville,942913,75,9,37995,No
+424ce0e8-3447-4423-893e-2da3a6d8f333,Townhome,United States,Nashville,2547959,90,12,37220,No
+1e23bbe0-2f87-449f-b51d-0c4100d99249,Detached,United States,Oklahoma City,3068888,90,14,73190,No
+e2f5fe66-f50b-48df-8954-adc22c450422,Condominium,United States,Birmingham,1051991,70,9,35236,No
+9ecaab70-0e66-42e2-9949-00b8e1afb9b0,Condominium,United States,Sacramento,1502864,75,18,95852,No
+7d59723e-e101-431a-806a-6144975681e3,Semi-Detached,United States,Oklahoma City,1135126,85,13,73179,No
+2375aab8-9b71-470b-aee4-e0ce81a3f96e,Townhome,United States,Boston,1361502,80,24,02114,No
+702e5b53-55b6-49f4-bf21-388abd9c3792,Semi-Detached,United States,Alexandria,1343001,70,24,71307,Yes
+6c9e9fbc-ec95-4147-b3c1-1ee988fb7d8c,Condominium,United States,Pittsburgh,1553368,85,7,15266,Yes
+46e4d43b-4bff-4d6e-8553-7d7b3ff1404c,Condominium,United States,Tempe,1412247,80,16,85284,No
+2c993934-8e04-4fea-a704-63b113bb3a28,Condominium,United States,Chandler,2544395,75,11,85246,No
+9a67a83e-f302-4f02-b4ba-4e999ae15204,Condominium,United States,Chattanooga,1997974,80,6,37410,No
+bb06bea6-5e15-485e-a65f-9f275ebdacbc,Townhome,United States,Bryan,1332867,85,25,77806,No
+062904a4-dc23-410a-adc3-2a60f51060b5,Condominium,United States,Round Rock,2089307,85,15,78682,No
+befb8611-37ab-4216-b532-7077b0a3f317,Townhome,United States,Richmond,3121655,70,24,23237,No
+1e83c8b0-f11c-4bbc-b02e-72a6087154f1,Townhome,United States,Lubbock,2315681,65,6,79491,No
+6b0c4d87-40a4-4ac4-ac24-226ec044cf3e,Semi-Detached,United States,Knoxville,1641544,75,11,37914,No
+8ffecf18-6328-40db-ae71-14bc0ddd464e,Condominium,United States,Biloxi,2651483,75,9,39534,No
+f523c681-50ce-4608-b679-5327e3f1e700,Townhome,United States,Irving,3366704,90,24,75062,Yes
+15231015-f5b1-425c-9689-c9f848a71dc9,Condominium,United States,Oakland,895971,85,25,94611,No
+d99e02ff-d89b-4070-9b03-c712ba21e918,Condominium,United States,Iowa City,2248097,75,20,52245,No
+3152a801-48a2-4f4c-8218-b7d17c11ef99,Detached,United States,Pensacola,1091491,65,7,32595,No
+8b9a0887-eff9-4c59-b2c8-c58f3bb0c9b2,Semi-Detached,United States,Macon,3190711,65,10,31205,No
+dcc996c6-9f76-497c-ab30-09667f9000db,Townhome,United States,Columbus,1811468,70,18,43220,No
+132da291-f94c-4178-bd6e-c7ef746efef8,Detached,United States,Las Vegas,1701986,70,19,89160,No
+59267d2b-0a61-43ac-abbf-d748e077ec38,Condominium,United States,Bronx,611113,70,20,10459,No
+dc4c9dc2-39a3-48c7-a4f6-16a822298d03,Detached,United States,Minneapolis,1545130,65,14,55458,No
+28da0d90-7199-4783-8b09-c0cee6355172,Detached,United States,Tacoma,1458399,85,5,98405,No
+8e96ac4d-dbca-4693-9eb5-465c37792830,Detached,United States,Merrifield,632358,75,22,22119,No
+6198b1b1-c6ab-47aa-ba46-69ea85082fce,Detached,United States,Huntsville,1235365,65,18,35895,No
+ff6fc881-9b34-4ac8-8356-8f977e8a9d7c,Detached,United States,Virginia Beach,2181964,75,13,23459,No
+0ec9a661-090e-45d6-b06e-26191d66e7dd,Townhome,United States,Springfield,3124413,75,20,62764,No
+391deeb6-3853-461d-80dd-cb4532f1ac98,Condominium,United States,Jamaica,1334376,85,17,11407,Yes
+f887bb42-f952-4249-b1ad-90b8dee36579,Semi-Detached,United States,Portland,1445402,85,13,97211,No
+b5cebbfc-153a-403a-ab5e-e1ac7361fe00,Townhome,United States,Miami Beach,1676474,90,22,33141,No
+4fc5c2bb-24a6-4cd4-8f45-d630f296a9e8,Townhome,United States,Greensboro,1342524,85,17,27455,No
+d786280f-8741-40f5-8e0f-ff7f32e39296,Condominium,United States,Norwalk,3457352,65,24,06854,No
+24b82728-1a91-4dff-af18-efe550f76b18,Semi-Detached,United States,Lawrenceville,1715935,70,20,30045,Yes
+14365264-ef42-4a9e-a4cd-c34223ef6f49,Semi-Detached,United States,Jefferson City,3138778,70,19,65110,No
+03acd39e-01c5-4a5d-8fae-3dee49aa5385,Semi-Detached,United States,Seminole,1394428,75,8,34642,No
+f23d6fc0-53f7-4b7a-b976-4d51a2348fa5,Townhome,United States,Washington,2598152,75,18,20210,No
+378b0baf-37d1-4607-ab5c-f04d22297a04,Detached,United States,Sacramento,1867393,80,20,94237,No
+6b46d09c-0203-46aa-b087-e1bf9ff60386,Townhome,United States,Jackson,1001258,65,24,39204,Yes
+c8ad61af-0590-4ef3-9211-5c8611e9fc7f,Semi-Detached,United States,Whittier,803154,80,25,90610,Yes
+4cde3665-6557-4f51-a744-0aa5d53b95e1,Townhome,United States,Baltimore,3220534,80,11,21239,No
+c8fc9b04-7e58-4901-ba44-5ab166aa8f5e,Condominium,United States,Austin,2304666,70,24,78764,No
+f702d350-50d3-4a14-bdd4-c976e7518704,Condominium,United States,Fort Lauderdale,2171453,85,9,33355,No
+e8b5ebad-3f05-4495-a2d9-4e6c75d1ba29,Condominium,United States,Philadelphia,3249054,70,19,19104,No
+efed98ad-3b25-4325-8e15-33c479c1bd8a,Semi-Detached,United States,Alexandria,1622510,75,9,22313,Yes
+c4576eb6-f17d-4190-bf0a-77a3f398dccd,Detached,United States,El Paso,3010877,65,11,88541,No
+037bda01-fa29-46bf-969c-0007324d3545,Detached,United States,Tucson,747888,75,21,85732,No
+1417d0ad-4e7b-42d4-a79d-932e3a1d6dcf,Condominium,United States,Saint Louis,1542349,90,12,63143,No
+44e53585-5f82-42b0-a5fe-ddc7f8cb8b19,Condominium,United States,Biloxi,3078056,65,25,39534,No
+16a40f17-73b4-4b8b-a795-3adf803523d1,Townhome,United States,Saint Petersburg,852703,90,17,33715,No
+bb7d1e9a-0e1c-47d5-9418-f0d3a7b2b68e,Detached,United States,Sacramento,2183513,65,15,94250,No
+6040d281-9a3c-4b8f-8745-6707dcc59f41,Townhome,United States,Young America,2911274,70,19,55573,No
+8a7bc25f-7aef-474a-93eb-2832ee6e1191,Condominium,United States,Tallahassee,1180850,85,11,32304,Yes
+696c585c-c1e8-4edf-881e-272b01b36088,Semi-Detached,United States,Fort Lauderdale,1095663,85,22,33355,No
+7f5cabfa-0f9f-4e7c-a8ef-482f94447449,Semi-Detached,United States,Washington,2633208,85,11,20036,Yes
+2786aa94-6307-4464-a6d3-3385e3970165,Townhome,United States,Houston,3068938,70,19,77045,No
+96167ac0-dca9-43a0-a2a3-ea15ac1702cf,Condominium,United States,Fort Lauderdale,2894208,75,10,33355,No
+8b8b7016-5ec0-4f1a-badd-174d9865689a,Townhome,United States,New Haven,3245873,80,20,06520,No
+192b68d5-f590-4fc1-9232-de1a14f48b41,Detached,United States,Miami,1798693,85,6,33169,Yes
+6da33da0-153b-42ba-b742-b5f2a17beaa3,Semi-Detached,United States,North Little Rock,2949100,75,18,72199,No
+de3d3bc6-1e5b-41f7-b513-cd86ca7fd0ad,Semi-Detached,United States,Washington,2906828,65,18,20051,No
+b8c3cf9c-f251-4ccd-95a3-b855814ca5ef,Detached,United States,Cheyenne,1434624,90,25,82007,No
+6a7cd292-6569-4db3-a88d-7aa07f62155e,Detached,United States,Des Moines,607012,85,12,50393,No
+e8105274-901d-4ed9-8cba-06e83016f579,Semi-Detached,United States,New York City,927670,80,10,10004,No
+d076d9e1-7823-454e-8bef-098200ab76e6,Semi-Detached,United States,Las Vegas,1703639,70,8,89135,No
+1f0f7371-ba33-40a1-bcbc-a7702515ee94,Condominium,United States,Houston,2835418,65,10,77070,No
+c1d735c9-9b1e-45de-9c51-7731addd835d,Detached,United States,Muskegon,2085318,75,14,49444,No
+c71f87b8-5d78-4408-b9e7-84aadaba0d7e,Detached,United States,Manassas,698553,80,16,22111,No
+e4e86f58-4793-4501-b28d-faa1a0e0d1be,Townhome,United States,Stamford,3327539,90,5,06912,No
+bd2752ae-1845-4065-a711-e258841d00d7,Semi-Detached,United States,Houston,1411508,90,23,77035,No
+65a08eaf-95b4-48e1-99f8-799be27bd66a,Detached,United States,Maple Plain,1577765,65,9,55579,No
+3ede5fde-f34a-4e5c-a346-2e9abae2ebff,Semi-Detached,United States,Kansas City,3468362,65,23,66112,No
+0556c047-1822-407d-8184-63e84adc03aa,Detached,United States,Newark,2818226,75,7,19725,No
+fe53ccd9-3951-4d8a-ae63-e597bbcd76fb,Condominium,United States,Muskegon,1382535,90,9,49444,No
+a32bec41-01ac-4f3d-8c0e-7f7310d8e4b0,Semi-Detached,United States,Pasadena,3129180,70,25,91103,No
+d2cf5d54-a584-4613-93be-c7c44ba9bb7a,Detached,United States,Houston,1048406,75,17,77288,No
+e4ee66d2-9d35-4a27-8973-ecd1f3383920,Semi-Detached,United States,Staten Island,2984928,70,8,10310,Yes
+4f6e14f3-1b23-4925-b090-f85f48d935ec,Detached,United States,Lawrenceville,1506587,65,24,30045,No
+4aebabb2-1444-4938-a5f1-18d171c9027b,Semi-Detached,United States,Indianapolis,1170154,90,18,46254,No
+55187436-fc49-4bd6-879a-17a7e8973de8,Semi-Detached,United States,Washington,2427163,85,15,20051,No
+d56a4ac9-b232-4234-8850-222916818fa4,Condominium,United States,Portland,1011448,75,22,97255,No
+ff275fe5-8c99-4111-b3a3-d33d796caf93,Detached,United States,Phoenix,1788254,65,14,85010,No
+36dc7ef1-fbbc-489c-8ce3-bd351d0c6845,Semi-Detached,United States,Omaha,2434219,90,7,68117,No
+619d9048-2f52-4d82-8b0b-940612137383,Condominium,United States,Las Vegas,890848,75,16,89115,No
+b183a6ca-63d7-40d4-8857-a911101c37f2,Condominium,United States,Washington,3383846,90,21,20430,No
+9759eff4-a624-4e58-901d-c1f608a85c1e,Semi-Detached,United States,Pensacola,988390,65,10,32505,No
+e890ba81-916c-4a64-8b64-783aba14f35f,Condominium,United States,Vancouver,680350,75,12,98682,No
+325545ff-0b0a-43b5-9653-dde5281b85ce,Condominium,United States,Richmond,1614519,75,23,23277,No
+1f8f6f17-2648-44e0-8b9e-412fb8e634cd,Townhome,United States,Minneapolis,2806628,65,15,55470,No
+14c842d2-76d1-497e-8970-c9cb4b5adf02,Townhome,United States,Shawnee Mission,2507420,75,9,66205,No
+20926fed-b8c8-4e01-9787-a0c4e0b8d60d,Townhome,United States,Tucson,3365459,65,17,85743,No
+c6fbd47e-89db-483f-b3e1-60eed05b5df4,Condominium,United States,Houston,1237811,85,19,77090,No
+06717eeb-979f-4819-9087-22d80dd1fd99,Condominium,United States,Charlotte,2340352,65,24,28299,No
+566a1c9e-dd84-4095-bfc9-a5493bda045d,Condominium,United States,New Haven,833005,85,15,06510,No
+a4db9353-98e0-4128-9efb-8d672957b2b9,Townhome,United States,Minneapolis,2624032,75,5,55441,No
+677c5294-755c-44bf-b1f1-cb6709eb620a,Townhome,United States,Shawnee Mission,784945,85,6,66205,No
+8aee6931-8b48-4e63-8eee-a178daefc898,Condominium,United States,Van Nuys,1009402,65,5,91406,No
+a28efdad-c691-455b-9738-85423104c5b4,Detached,United States,Tucson,654449,65,17,85743,No
+7512e18e-41a5-45c2-bf87-ff665dff2475,Condominium,United States,Las Vegas,2510692,75,19,89135,Yes
+9c46f401-f282-42fe-af59-ad5858dfe1eb,Townhome,United States,Gatesville,1398459,90,6,76598,No
+c467d4d5-8f7d-4373-905e-43ef2e7d7402,Semi-Detached,United States,Chattanooga,2183142,70,18,37410,No
+3ca6f6fa-4fa6-434f-a258-f43b6d35bee1,Semi-Detached,United States,San Francisco,567852,80,20,94121,No
+a5d5e103-5e94-4f3f-a0f7-908c7c29c873,Semi-Detached,United States,Dallas,976066,90,11,75216,No
+44082705-d99d-4268-aa37-07f5d71dc1ee,Semi-Detached,United States,San Antonio,2976576,90,21,78265,No
+2c388d55-170a-4998-8dbd-638700af4b5b,Detached,United States,Asheville,782497,80,10,28815,No
+05414b5c-37f6-4618-9dfe-5474c9f45379,Detached,United States,Albany,2604543,65,22,31704,No
+0ee8ffa7-e8a5-4320-b5fb-3bf2197306dd,Townhome,United States,Whittier,1922871,90,19,90605,No
+0b25db42-a66c-4192-8bac-44509e99e31b,Semi-Detached,United States,Stockton,1775226,80,10,95210,No
+0fd28971-3651-45ab-aff4-58388089aeab,Townhome,United States,Cincinnati,2025523,90,19,45213,Yes
+62cb81bc-8a65-4f0a-85af-db98fe564bac,Detached,United States,Wichita,1689872,80,17,67210,No
+9395f6bc-fecc-43c2-ade4-50f9c8aa5629,Townhome,United States,Wilkes Barre,3314361,75,13,18706,No
+366f903b-07d1-4b48-ac4c-7a75ccce30d0,Semi-Detached,United States,Anchorage,1054013,85,5,99599,Yes
+28f93c2f-2a26-4b0d-bf34-e00065db3aa1,Semi-Detached,United States,Stockton,613260,90,22,95205,Yes
+58c8f74f-e1ee-41ab-b2d5-54ba7809beb3,Semi-Detached,United States,Louisville,2176109,70,24,40293,No
+57a006f7-4757-4e84-bb39-6283d73f7b08,Townhome,United States,Garden Grove,1903443,75,23,92844,No
+449e4831-d9b4-4ec3-a5dd-8092b3e9cf9a,Condominium,United States,Provo,1030399,75,9,84605,No
+4713e402-7792-4711-be46-d36a02d66ea8,Condominium,United States,Huntington,2360368,75,18,25709,No
+fa7adf93-6836-4c05-bd75-61de22a1cec2,Detached,United States,Phoenix,825685,65,16,85099,No
+cb1105b4-6fde-486a-9529-85adf5b886e3,Townhome,United States,Lancaster,1135139,75,17,93584,No
+146bcc68-c758-4b2d-95a9-add807b7db7c,Detached,United States,Fort Wayne,3461002,90,16,46857,No
+bb69ff68-0800-4abc-a4a7-5b534c8715fe,Townhome,United States,Long Beach,3201116,80,14,90831,No
+0df799c9-d012-4afb-904f-f42c33b89722,Condominium,United States,San Jose,1704043,85,14,95108,No
+d09bd3a9-4291-4e9b-b1ef-5900d2499d7b,Townhome,United States,Houston,865758,85,18,77240,No
+e0d367cd-d732-4b7e-b167-230f39dc524d,Condominium,United States,Baltimore,699596,80,24,21216,No
+40b57c2e-6a9d-40c4-89a4-7cefdf39e8ed,Semi-Detached,United States,Virginia Beach,3241652,65,14,23454,No
+eaa0f000-ed90-44f5-bca8-3222d3fe781a,Condominium,United States,Charlotte,1785460,80,13,28289,No
+1beebaa8-17d9-41a7-9c84-f37f8c184b48,Detached,United States,Clearwater,2123471,70,22,34629,No
+ab10579d-c225-449d-a358-9a57885950e2,Townhome,United States,Minneapolis,919291,85,19,55470,No
+d30625de-c21d-472a-8be2-25d3ec32c944,Semi-Detached,United States,Tampa,3389243,80,25,33673,No
+29ac2dd3-c539-402a-bdb2-2b24c3c96048,Detached,United States,Dallas,774406,80,9,75342,No
+8329709f-e376-4b0f-9906-dd44537d6e26,Condominium,United States,Erie,3493915,85,25,16522,No
+26b2c75e-cb76-41e8-a220-4f96ec12ad33,Townhome,United States,San Diego,527890,75,12,92165,No
+669499bb-e5a4-4c94-b5a0-26de48415cf4,Townhome,United States,Rochester,2973335,65,10,55905,Yes
+ede9d8e2-ed11-4d82-ad56-57d38ea6d247,Semi-Detached,United States,Seattle,608760,85,25,98115,No
+75cff227-682b-4d76-962b-502f8ce88c49,Semi-Detached,United States,Houston,1327338,85,15,77240,No
+e4bd861a-52fa-48c7-aae1-83fb4253012c,Condominium,United States,Cleveland,1686274,75,20,44185,No
+11bd2b15-88ad-49f2-8642-8f54c807019a,Townhome,United States,Charlotte,2187529,80,6,28230,No
+b5125d57-8c3e-46fb-ad7d-6a1f198abfb5,Detached,United States,Daytona Beach,933452,90,17,32123,No
+12002f35-63f0-49c1-b7fc-0ce04b633fea,Condominium,United States,Salt Lake City,3219728,85,12,84115,No
+ba0a731c-5eb3-49eb-815c-2fb2e4ea4ffd,Detached,United States,Racine,900354,85,20,53405,No
+a0b91f8b-19bc-42f4-aeca-6bec8018c01d,Condominium,United States,Naples,606275,80,22,34102,No
+5f1c6df1-eff1-4f04-b0a4-af06272b3973,Semi-Detached,United States,Garden Grove,2259800,70,20,92844,No
+c993c1a9-a645-4939-87b4-b87e9886a5fb,Detached,United States,Wilkes Barre,2080635,70,13,18763,No
+c2872515-61a2-4f6b-94a0-f56a53183ada,Detached,United States,Lincoln,633831,90,7,68517,Yes
+5195868d-9171-4ef9-ac02-3f00c4c7c1b1,Semi-Detached,United States,Santa Ana,2390393,65,11,92725,No
+76115690-98eb-47eb-b33f-b2aa4c6bd665,Townhome,United States,Columbia,2361547,90,10,29220,No
+de5caa93-2d5a-4244-886a-dde824bdf5b8,Condominium,United States,Trenton,1431898,65,7,08695,No
+26426df6-d96e-4ba7-a4a8-a64ee1c903a5,Detached,United States,El Paso,2986841,65,16,88525,No
+abb13aab-67c3-4ffd-8534-e8f02c6eb828,Detached,United States,Flushing,3373424,70,24,11388,No
+b4baf4f9-cec1-41f3-aff1-79422d15eddf,Townhome,United States,Cincinnati,963411,75,18,45223,No
+c188f5d0-a367-4c2e-86b1-b8913f4d46db,Condominium,United States,Detroit,1317251,85,12,48217,No
+b1397d7e-1e1e-4246-95ff-e820942aec2a,Semi-Detached,United States,Richmond,3006366,85,19,23272,No
+3d4a12bb-15fc-4356-99a3-aa9fe9ecf475,Detached,United States,Lincoln,2458996,90,22,68517,No
+09550165-39b9-4ace-a4b8-52bd6f2a58b2,Semi-Detached,United States,Des Moines,2240543,75,21,50393,No
+b5640125-ea15-40fd-afdd-a84b4596a414,Detached,United States,Springfield,1886268,85,19,65810,No
+99cada2b-4107-463b-bef9-9c27265683f9,Condominium,United States,Orlando,2569671,75,6,32885,No
+94708161-0ddd-4489-b942-c66d2b8aec86,Semi-Detached,United States,Saint Petersburg,1614322,90,25,33710,No
+905aa709-bef9-4563-8d68-a61b8210a8d3,Townhome,United States,New Haven,743293,80,23,06510,No
+212763a0-8cfc-4c5a-928e-4a2b8df455a3,Detached,United States,Jacksonville,873404,80,22,32255,No
+59f1a543-e6c5-48eb-b93f-6ea25af2c8fc,Semi-Detached,United States,Philadelphia,3203033,70,14,19191,No
+55e74f17-b342-4995-9932-16e974df984a,Condominium,United States,Portland,2384601,70,5,97255,No
+1fca5033-deed-4801-9e6e-fde8bcd7d122,Condominium,United States,Shawnee Mission,3450601,90,13,66276,No
+0eae987a-d56c-431e-b1a1-f91021d17257,Condominium,United States,Lancaster,1494411,70,19,93584,No
+0baea601-7ece-4e29-90d9-19a5ab2666dc,Semi-Detached,United States,Saint Louis,2507970,85,17,63104,No
+2675cf07-5ec7-4519-9a44-2445dd126542,Semi-Detached,United States,Atlanta,2606490,75,20,30328,No
+3afc3d50-d26c-4ab1-8dbc-aedf86c8cba0,Detached,United States,Wilkes Barre,2871897,80,24,18763,No
+28e83c0d-d340-45aa-9814-61ec5c0de8e9,Condominium,United States,Boston,3457801,85,16,02208,Yes
+7cc68d7d-2271-4d69-b4db-7523115a3aa2,Detached,United States,Marietta,1124525,70,22,30061,No
+ba2b1e48-bfd1-4cc9-ba96-bc5d2ca09835,Semi-Detached,United States,Portland,1856938,85,8,97271,No
+e411980a-ae81-475a-9bb1-93182fb67229,Detached,United States,Chico,2281886,80,16,95973,Yes
+739ca3a7-dffb-4fe0-b06d-b48c64801901,Condominium,United States,Anchorage,2076472,75,24,99522,No
+f192c66a-a54c-42a1-9261-c58d9ec05d65,Condominium,United States,Washington,3363667,75,16,20226,No
+d2a4f732-82f1-47b8-8835-3dd23de82797,Condominium,United States,Denver,906572,70,6,80241,No
+d5fe93c9-c21f-41c4-b0a8-a2266552e199,Townhome,United States,Asheville,2185716,70,25,28815,No
+0c812620-9efe-46d4-9d9f-395d4c7fd40e,Townhome,United States,Chattanooga,3314270,65,17,37410,No
+6daf2256-19ff-4580-a035-a128be6e2ce3,Detached,United States,Hartford,1570464,80,23,06145,No
+83c9c4d8-212b-4b44-bb58-af5ef3441627,Condominium,United States,Memphis,649175,65,10,38161,No
+ff059cec-e568-455d-a88e-15fe7efcf017,Condominium,United States,Glendale,3376215,80,22,91210,No
+7ac97523-dac3-48cb-812a-863a79712d3b,Condominium,United States,Corona,2891984,65,18,92878,No
+f8d94a96-1707-4092-ba94-552b35cc4bbd,Condominium,United States,Migrate,720513,75,14,41905,No
+6a35c48b-4548-4bd0-8d6a-521959300722,Condominium,United States,Fort Lauderdale,1383206,80,7,33345,No
+24e6464d-a870-4d2e-9b2f-16cd55fc2647,Semi-Detached,United States,Jacksonville,1158290,70,11,32277,No
+8848b3b5-2f85-4785-87ba-005bd925d515,Townhome,United States,Pensacola,910891,70,10,32505,No
+fa822891-a281-40b4-8f3f-20d889cface1,Semi-Detached,United States,Decatur,1874179,90,21,30089,No
+7c569cd9-9cfc-4fe3-bc25-11e1c4ccbb12,Condominium,United States,Dayton,2739032,80,23,45432,No
+12e2c02f-482f-4cc2-b18f-ba2cefb6d6a8,Townhome,United States,Anniston,3098789,75,6,36205,No
+433d2c4b-284c-431b-b3b5-828014e58ea8,Townhome,United States,Evansville,755063,70,22,47725,No
+dee2f41b-c13c-4806-bc95-949d1995d8e0,Condominium,United States,Newport News,1282359,80,15,23612,No
+ff04332e-e19c-4ff3-8e7d-e79304029302,Detached,United States,Richmond,2828253,65,6,23272,No
+00582b15-f50d-4ae9-9b89-324f785d383c,Semi-Detached,United States,Atlanta,1573298,75,20,31119,No
+28717328-8339-48ca-add5-1ba1e49c4ba9,Townhome,United States,Daytona Beach,671258,80,7,32123,No
+060dcbb0-bd95-4a31-8247-9919cb40e3e2,Condominium,United States,North Little Rock,2723445,65,24,72199,No
+1e2e12df-b743-4883-9a39-ad8ca72eb6d3,Detached,United States,Atlanta,1866530,70,16,30351,No
+d2eb8747-8680-41a1-a428-c830d2dfcb77,Townhome,United States,Lafayette,2993118,85,14,70505,No
+6540e120-056f-468d-9df8-546052a71124,Townhome,United States,El Paso,2918323,70,13,88546,No
+0a867c15-3ffa-4612-842f-f25ef33ddd5c,Townhome,United States,San Antonio,845337,70,11,78265,No
+6e9202a8-5336-48ab-bde9-bb53b0cac083,Semi-Detached,United States,Charleston,1096960,90,13,25326,No
+a2610cf8-28e7-4e6d-a28e-818f84b01e78,Detached,United States,Shreveport,2029467,80,9,71137,No
+1cfd73f3-63bb-46e1-a356-0c5298c28ee9,Townhome,United States,Springfield,2037384,70,9,62711,No
+17cf3d40-26d4-4eb1-aa57-ebc85e30263b,Townhome,United States,Wilmington,1236673,90,16,28410,No
+3c5a689c-5019-4f4f-8d21-bd5c8dc75e9d,Townhome,United States,San Antonio,553061,65,12,78215,No
+7b6e43a6-42b0-4bcd-b8eb-11dab9a960be,Semi-Detached,United States,Albuquerque,3162323,75,14,87140,No
+4df9e03f-316a-4487-a9c1-f44f834922e7,Detached,United States,El Paso,732381,90,21,88574,No
+493eb42f-c420-46dc-a7dd-08e8e8b91cc2,Condominium,United States,Oklahoma City,3036426,80,11,73124,No
+24f1a208-ece3-40a5-8ceb-61dded00e8ea,Semi-Detached,United States,Jamaica,1786138,80,8,11480,No
+1e52595e-f410-4790-96c8-fdd2de4012e8,Townhome,United States,Decatur,878204,70,24,30089,No
+5dfb8aca-9f54-4804-98c4-ef6db73b3da1,Townhome,United States,West Palm Beach,1170307,75,9,33416,No
